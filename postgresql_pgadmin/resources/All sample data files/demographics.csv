@@ -1,0 +1,794 @@
+﻿customer_id,name,type,country,city,state,zipcode,region,age,household_income,household_size,ethnicity,urbanicity,profession,language
+CG-12520,Claire Gute,Consumer,United States,Henderson,Kentucky,42420,South,30,60000,1,Caucasian,Rural,Chief executives,EN
+DV-13045,Darrin Van Huff,Consumer,United States,Los Angeles,California,90036,West,27,54000,2,Caucasian,Semi-Urban,Marketing,SP
+SO-20335,Sean O'Donnell,Consumer,United States,Fort Lauderdale,Florida,33311,South,40,80000,3,Hispanic,Urban,Marketing,EN
+BH-11710,Brosina Hoffman,Consumer,United States,Los Angeles,California,90032,West,32,64000,2,Caucasian,Urban,Advertising and promotions,SP
+AA-10480,Andrew Allen,Consumer,United States,Concord,North Carolina,28027,South,59,118000,4,African American,Urban,Marketing,EN
+IM-15070,Irene Maddox,Consumer,United States,Seattle,Washington,98103,West,54,108000,5,Caucasian,Semi-Urban,Computer and information systems,EN
+HP-14815,Harold Pawlan,Consumer,United States,Fort Worth,Texas,76106,Central,25,50000,1,African American,Semi-Urban,Marketing,SP
+PK-19075,Pete Kriz,Consumer,United States,Madison,Wisconsin,53711,Central,31,62000,2,African American,Urban,General and operations,EN
+AG-10270,Alejandro Grove,Consumer,United States,West Jordan,Utah,84084,West,48,96000,4,Caucasian,Semi-Urban,Public relations and fundraising,EN
+ZD-21925,Zuschuss Donatelli,Consumer,United States,San Francisco,California,94109,West,49,98000,5,Asian,Rural,Advertising and promotions,SP
+KB-16585,Ken Black,Consumer,United States,Fremont,Nebraska,68025,Central,49,98000,4,Caucasian,Urban,Public relations and fundraising,EN
+SF-20065,Sandra Flanagan,Consumer,United States,Philadelphia,Pennsylvania,19140,East,33,66000,1,Caucasian,Semi-Urban,Computer and information systems,EN
+EB-13870,Emily Burns,Consumer,United States,Orem,Utah,84057,West,39,78000,3,African American,Urban,Sales,EN
+EH-13945,Eric Hoffmann,Consumer,United States,Los Angeles,California,90049,West,29,58000,1,Caucasian,Rural,Legislators,SP
+TB-21520,Tracy Blumstein,Consumer,United States,Philadelphia,Pennsylvania,19140,East,25,50000,2,African American,Urban,Facilities,EN
+MA-17560,Matt Abelman,Consumer,United States,Houston,Texas,77095,Central,52,104000,4,Caucasian,Urban,Chief executives,SP
+GH-14485,Gene Hale,Consumer,United States,Richardson,Texas,75080,Central,29,58000,2,Asian,Rural,Public relations and fundraising,SP
+SN-20710,Steve Nguyen,Consumer,United States,Houston,Texas,77041,Central,35,70000,2,Caucasian,Urban,Legislators,SP
+LC-16930,Linda Cazamias,Consumer,United States,Naperville,Illinois,60540,Central,48,96000,4,Caucasian,Urban,General and operations,EN
+RA-19885,Ruben Ausman,Consumer,United States,Los Angeles,California,90049,West,28,56000,2,African American,Semi-Urban,Advertising and promotions,SP
+ES-14080,Erin Smith,Consumer,United States,Melbourne,Florida,32935,South,26,52000,2,Hispanic,Semi-Urban,Computer and information systems,EN
+ON-18715,Odella Nelson,Consumer,United States,Eagan,Minnesota,55122,Central,60,120000,5,Caucasian,Urban,Public relations and fundraising,EN
+PO-18865,Patrick O'Donnell,Consumer,United States,Westland,Michigan,48185,Central,39,78000,3,Caucasian,Urban,Sales,EN
+LH-16900,Lena Hernandez,Consumer,United States,Dover,Delaware,19901,East,56,112000,4,Asian,Semi-Urban,Sales,EN
+DP-13000,Darren Powers,Consumer,United States,New Albany,Indiana,47150,Central,32,64000,2,Hispanic,Urban,Administrative services,EN
+JM-15265,Janet Molinari,Consumer,United States,New York City,New York,10024,East,34,68000,2,Asian,Urban,Public relations and fundraising,EN
+TB-21055,Ted Butterfield,Consumer,United States,Troy,New York,12180,East,35,70000,2,Caucasian,Urban,Public relations and fundraising,EN
+KM-16720,Kunst Miller,Consumer,United States,Los Angeles,California,90004,West,32,64000,1,African American,Urban,Sales,SP
+PS-18970,Paul Stevenson,Consumer,United States,Chicago,Illinois,60610,Central,40,80000,3,Caucasian,Rural,General and operations,EN
+BS-11590,Brendan Sweed,Consumer,United States,Gilbert,Arizona,85234,West,51,102000,4,Caucasian,Urban,General and operations,SP
+KD-16270,Karen Daniels,Consumer,United States,Springfield,Virginia,22153,South,27,54000,2,Caucasian,Urban,Chief executives,EN
+HM-14980,Henry MacAllister,Consumer,United States,New York City,New York,10009,East,48,96000,4,Asian,Urban,Marketing,EN
+JE-15745,Joel Eaton,Consumer,United States,Memphis,Tennessee,38109,South,31,62000,2,Caucasian,Urban,Public relations and fundraising,EN
+KB-16600,Ken Brennan,Consumer,United States,Houston,Texas,77041,Central,59,118000,4,African American,Rural,Facilities,SP
+SC-20770,Stewart Carmichael,Consumer,United States,Decatur,Alabama,35601,South,25,50000,1,Caucasian,Urban,Public relations and fundraising,EN
+DN-13690,Duane Noonan,Consumer,United States,San Francisco,California,94122,West,60,120000,5,Caucasian,Urban,Facilities,SP
+JC-16105,Julie Creighton,Consumer,United States,Durham,North Carolina,27707,South,44,88000,3,African American,Urban,Public relations and fundraising,EN
+CS-12400,Christopher Schild,Consumer,United States,Chicago,Illinois,60623,Central,31,62000,2,African American,Semi-Urban,Advertising and promotions,EN
+PG-18895,Paul Gonzalez,Consumer,United States,Rochester,Minnesota,55901,Central,44,88000,3,Caucasian,Rural,Legislators,EN
+GM-14455,Gary Mitchum,Consumer,United States,Houston,Texas,77095,Central,53,106000,5,Caucasian,Urban,Public relations and fundraising,SP
+JS-15685,Jim Sink,Consumer,United States,Los Angeles,California,90036,West,51,102000,4,Caucasian,Urban,Facilities,SP
+KB-16315,Karl Braun,Consumer,United States,Minneapolis,Minnesota,55407,Central,35,70000,2,Hispanic,Urban,Advertising and promotions,EN
+RB-19705,Roger Barcio,Consumer,United States,Portland,Oregon,97206,West,50,100000,5,Caucasian,Semi-Urban,General and operations,EN
+PN-18775,Parhena Norris,Consumer,United States,New York City,New York,10009,East,35,70000,2,African American,Urban,General and operations,EN
+KD-16345,Katherine Ducich,Consumer,United States,San Francisco,California,94122,West,38,76000,3,African American,Urban,Marketing,SP
+ER-13855,Elpida Rittenbach,Consumer,United States,Saint Paul,Minnesota,55106,Central,54,108000,5,African American,Urban,Public relations and fundraising,EN
+RB-19465,Rick Bensley,Consumer,United States,Chicago,Illinois,60610,Central,55,110000,5,Caucasian,Urban,Sales,EN
+GZ-14470,Gary Zandusky,Consumer,United States,Rochester,Minnesota,55901,Central,57,114000,5,Asian,Urban,Marketing,EN
+LC-16870,Lena Cacioppo,Consumer,United States,Aurora,Colorado,80013,West,36,72000,3,Caucasian,Urban,Computer and information systems,SP
+JM-15250,Janet Martin,Consumer,United States,Charlotte,North Carolina,28205,South,36,72000,3,Asian,Semi-Urban,Public relations and fundraising,EN
+PA-19060,Pete Armstrong,Consumer,United States,Orland Park,Illinois,60462,Central,45,90000,5,Hispanic,Semi-Urban,Public relations and fundraising,EN
+CV-12805,Cynthia Voltz,Consumer,United States,New York City,New York,10035,East,25,50000,1,Caucasian,Urban,Legislators,EN
+CL-12565,Clay Ludtke,Consumer,United States,Urbandale,Iowa,50322,Central,36,72000,3,Asian,Urban,Facilities,EN
+RC-19960,Ryan Crowe,Consumer,United States,Columbus,Ohio,43229,East,59,118000,4,Caucasian,Urban,General and operations,EN
+DK-13090,Dave Kipp,Consumer,United States,Seattle,Washington,98103,West,27,54000,2,Asian,Semi-Urban,Administrative services,EN
+GG-14650,Greg Guthrie,Consumer,United States,Bristol,Tennessee,37620,South,29,58000,1,Asian,Semi-Urban,Sales,EN
+SC-20725,Steven Cartwright,Consumer,United States,Wilmington,Delaware,19805,East,35,70000,1,Asian,Urban,Sales,EN
+AD-10180,Alan Dominguez,Consumer,United States,Houston,Texas,77041,Central,54,108000,4,Hispanic,Urban,General and operations,SP
+PF-19165,Philip Fox,Consumer,United States,Bloomington,Illinois,61701,Central,27,54000,2,Asian,Urban,Computer and information systems,EN
+TS-21610,Troy Staebel,Consumer,United States,Phoenix,Arizona,85023,West,32,64000,1,Caucasian,Urban,Facilities,SP
+LS-16975,Lindsay Shagiari,Consumer,United States,Los Angeles,California,90004,West,31,62000,1,Asian,Rural,Facilities,SP
+DW-13585,Dorothy Wardle,Consumer,United States,Columbus,Ohio,43229,East,56,112000,4,Asian,Urban,Legislators,EN
+LC-16885,Lena Creighton,Consumer,United States,Roseville,California,95661,West,46,92000,5,Hispanic,Rural,Chief executives,SP
+JD-15895,Jonathan Doherty,Consumer,United States,Philadelphia,Pennsylvania,19140,East,27,54000,1,Asian,Semi-Urban,Legislators,EN
+SH-19975,Sally Hughsby,Consumer,United States,San Francisco,California,94122,West,58,116000,5,Hispanic,Urban,Facilities,SP
+SG-20080,Sandra Glassco,Consumer,United States,Independence,Missouri,64055,Central,25,50000,1,African American,Urban,Administrative services,EN
+HA-14920,Helen Andreada,Consumer,United States,Pasadena,California,91104,West,40,80000,3,Hispanic,Rural,Public relations and fundraising,SP
+MG-17680,Maureen Gastineau,Consumer,United States,Newark,Ohio,43055,East,41,82000,3,Asian,Urban,Public relations and fundraising,EN
+JE-16165,Justin Ellison,Consumer,United States,Franklin,Wisconsin,53132,Central,28,56000,1,Caucasian,Urban,Administrative services,EN
+TW-21025,Tamara Willingham,Consumer,United States,Scottsdale,Arizona,85254,West,35,70000,3,Caucasian,Rural,General and operations,SP
+SP-20650,Stephanie Phelps,Consumer,United States,San Jose,California,95123,West,51,102000,4,Caucasian,Urban,General and operations,SP
+NK-18490,Neil Knudson,Consumer,United States,Seattle,Washington,98105,West,37,74000,3,Caucasian,Urban,General and operations,EN
+DB-13060,Dave Brooks,Consumer,United States,Seattle,Washington,98115,West,34,68000,2,Caucasian,Urban,Legislators,EN
+NP-18670,Nora Paige,Consumer,United States,Edmond,Oklahoma,73034,Central,55,110000,4,African American,Rural,Chief executives,EN
+TT-21070,Ted Trevino,Consumer,United States,Los Angeles,California,90045,West,30,60000,1,African American,Semi-Urban,General and operations,SP
+EM-13960,Eric Murdock,Consumer,United States,Philadelphia,Pennsylvania,19134,East,42,84000,3,African American,Urban,Administrative services,EN
+RD-19900,Ruben Dartt,Consumer,United States,Carlsbad,New Mexico,88220,West,55,110000,4,Caucasian,Urban,Administrative services,SP
+MJ-17740,Max Jones,Consumer,United States,Seattle,Washington,98115,West,30,60000,1,Caucasian,Semi-Urban,Public relations and fundraising,EN
+BM-11140,Becky Martin,Consumer,United States,San Antonio,Texas,78207,Central,35,70000,2,Caucasian,Urban,Legislators,SP
+CS-12130,Chad Sievert,Consumer,United States,Los Angeles,California,90004,West,30,60000,2,Caucasian,Semi-Urban,Administrative services,SP
+JB-15400,Jennifer Braxton,Consumer,United States,Chicago,Illinois,60623,Central,25,50000,2,African American,Rural,Marketing,EN
+SJ-20500,Shirley Jackson,Consumer,United States,Houston,Texas,77036,Central,34,68000,1,Caucasian,Rural,General and operations,SP
+JK-15640,Jim Kriz,Consumer,United States,New York City,New York,10009,East,59,118000,4,Hispanic,Urban,Sales,EN
+DK-13150,David Kendrick,Consumer,United States,Decatur,Illinois,62521,Central,35,70000,1,Caucasian,Urban,Administrative services,EN
+RM-19675,Robert Marley,Consumer,United States,Monroe,Louisiana,71203,South,30,60000,2,Caucasian,Urban,General and operations,EN
+SK-19990,Sally Knutson,Consumer,United States,Fairfield,Connecticut,6824,East,31,62000,2,Hispanic,Rural,General and operations,EN
+FM-14290,Frank Merwin,Consumer,United States,Los Angeles,California,90032,West,42,84000,3,African American,Urban,Public relations and fundraising,SP
+AM-10360,Alice McCarthy,Consumer,United States,Grand Prairie,Texas,75051,Central,33,66000,2,African American,Urban,Facilities,SP
+MP-17470,Mark Packer,Consumer,United States,New York City,New York,10035,East,44,88000,3,Caucasian,Urban,Sales,EN
+MZ-17515,Mary Zewe,Consumer,United States,Redlands,California,92374,West,50,100000,4,African American,Urban,Advertising and promotions,SP
+CB-12025,Cassandra Brandow,Consumer,United States,Hamilton,Ohio,45011,East,53,106000,5,Caucasian,Urban,Legislators,EN
+VM-21685,Valerie Mitchum,Consumer,United States,Westfield,New Jersey,7090,East,39,78000,3,Caucasian,Rural,Marketing,EN
+FH-14365,Fred Hopkins,Consumer,United States,Philadelphia,Pennsylvania,19120,East,56,112000,5,Asian,Urban,Computer and information systems,EN
+MB-17305,Maria Bertelson,Consumer,United States,Akron,Ohio,44312,East,25,50000,2,Caucasian,Semi-Urban,Legislators,EN
+BS-11755,Bruce Stewart,Consumer,United States,Denver,Colorado,80219,West,31,62000,2,Caucasian,Urban,Computer and information systems,SP
+LC-17140,Logan Currie,Consumer,United States,Dallas,Texas,75220,Central,60,120000,4,Caucasian,Urban,General and operations,SP
+HK-14890,Heather Kirkland,Consumer,United States,Franklin,Tennessee,37064,South,37,74000,3,African American,Urban,Marketing,EN
+LE-16810,Laurel Elliston,Consumer,United States,Whittier,California,90604,West,26,52000,1,African American,Urban,Administrative services,SP
+JH-15985,Joseph Holt,Consumer,United States,Saginaw,Michigan,48601,Central,31,62000,1,Caucasian,Urban,Legislators,EN
+MS-17980,Michael Stewart,Consumer,United States,Dallas,Texas,75220,Central,47,94000,5,African American,Semi-Urban,General and operations,SP
+VW-21775,Victoria Wilson,Consumer,United States,Medina,Ohio,44256,East,49,98000,5,Caucasian,Urban,Public relations and fundraising,EN
+JH-15910,Jonathan Howell,Consumer,United States,Los Angeles,California,90032,West,28,56000,2,Asian,Urban,Legislators,SP
+JB-15925,Joni Blumstein,Consumer,United States,Dublin,Ohio,43017,East,39,78000,3,Hispanic,Rural,Facilities,EN
+DS-13180,David Smith,Consumer,United States,Detroit,Michigan,48227,Central,26,52000,1,Caucasian,Rural,Advertising and promotions,EN
+VD-21670,Valerie Dominguez,Consumer,United States,Columbia,Tennessee,38401,South,46,92000,5,Hispanic,Urban,Facilities,EN
+EA-14035,Erin Ashbrook,Consumer,United States,Charlotte,North Carolina,28205,South,40,80000,3,Asian,Urban,Chief executives,EN
+DB-13120,David Bremer,Consumer,United States,Santa Clara,California,95051,West,31,62000,1,Caucasian,Rural,Public relations and fundraising,SP
+KL-16645,Ken Lonsdale,Consumer,United States,Chicago,Illinois,60610,Central,25,50000,2,African American,Urban,Facilities,EN
+DW-13480,Dianna Wilson,Consumer,United States,Lakeville,Minnesota,55044,Central,26,52000,2,African American,Urban,Sales,EN
+LH-17155,Logan Haushalter,Consumer,United States,San Francisco,California,94109,West,49,98000,4,Asian,Semi-Urban,Advertising and promotions,SP
+KC-16540,Kelly Collister,Consumer,United States,San Diego,California,92037,West,33,66000,2,Caucasian,Urban,Public relations and fundraising,SP
+DL-13315,Delfina Latchford,Consumer,United States,New York City,New York,10024,East,49,98000,5,Hispanic,Urban,Computer and information systems,EN
+DR-12880,Dan Reichenbach,Consumer,United States,Chicago,Illinois,60623,Central,28,56000,2,African American,Rural,Sales,EN
+CC-12670,Craig Carreira,Consumer,United States,New York City,New York,10009,East,31,62000,2,Hispanic,Rural,Marketing,EN
+Dl-13600,Dorris liebe,Consumer,United States,Pasadena,Texas,77506,Central,31,62000,2,African American,Rural,Chief executives,SP
+SB-20290,Sean Braxton,Consumer,United States,Houston,Texas,77036,Central,35,70000,3,Caucasian,Urban,Facilities,SP
+RC-19825,Roy Collins,Consumer,United States,Chicago,Illinois,60610,Central,58,116000,4,Caucasian,Urban,General and operations,EN
+AH-10210,Alan Hwang,Consumer,United States,Brentwood,California,94513,West,30,60000,2,Hispanic,Rural,Public relations and fundraising,SP
+CB-12535,Claudia Bergmann,Consumer,United States,Chapel Hill,North Carolina,27514,South,58,116000,5,African American,Urban,Public relations and fundraising,EN
+CA-12310,Christine Abelman,Consumer,United States,Cincinnati,Ohio,45231,East,58,116000,5,Asian,Urban,Administrative services,EN
+KH-16690,Kristen Hastings,Consumer,United States,San Francisco,California,94110,West,35,70000,2,Hispanic,Urban,Legislators,SP
+BB-10990,Barry Blumstein,Consumer,United States,Inglewood,California,90301,West,57,114000,5,Hispanic,Urban,Advertising and promotions,SP
+AG-10495,Andrew Gjertsen,Consumer,United States,Philadelphia,Pennsylvania,19140,East,56,112000,4,Caucasian,Urban,Legislators,EN
+JO-15280,Jas O'Carroll,Consumer,United States,Los Angeles,California,90004,West,39,78000,3,Caucasian,Rural,Computer and information systems,SP
+AH-10195,Alan Haines,Consumer,United States,Tamarac,Florida,33319,South,31,62000,2,Caucasian,Urban,General and operations,EN
+NZ-18565,Nick Zandusky,Consumer,United States,Columbus,Ohio,43229,East,33,66000,1,Hispanic,Urban,Administrative services,EN
+KL-16555,Kelly Lampkin,Consumer,United States,Colorado Springs,Colorado,80906,West,31,62000,1,Hispanic,Urban,General and operations,SP
+AS-10225,Alan Schoenberger,Consumer,United States,New York City,New York,10024,East,33,66000,1,Caucasian,Urban,Public relations and fundraising,EN
+CR-12625,Corey Roper,Consumer,United States,Lakewood,New Jersey,8701,East,30,60000,2,Caucasian,Semi-Urban,Sales,EN
+SH-20395,Shahid Hopkins,Consumer,United States,Arlington,Virginia,22204,South,40,80000,3,Hispanic,Urban,General and operations,EN
+BP-11185,Ben Peterman,Consumer,United States,Arvada,Colorado,80004,West,46,92000,4,Caucasian,Urban,Administrative services,SP
+TS-21205,Thomas Seio,Consumer,United States,Hackensack,New Jersey,7601,East,56,112000,4,Asian,Urban,Sales,EN
+AG-10525,Andy Gerbode,Consumer,United States,Saint Petersburg,Florida,33710,South,35,70000,3,Hispanic,Urban,Administrative services,EN
+SP-20860,Sung Pak,Consumer,United States,Philadelphia,Pennsylvania,19143,East,51,102000,4,African American,Urban,General and operations,EN
+NM-18445,Nathan Mautz,Consumer,United States,New York City,New York,10024,East,39,78000,3,Caucasian,Rural,Advertising and promotions,EN
+FA-14230,Frank Atkinson,Consumer,United States,Long Beach,California,90805,West,32,64000,2,Hispanic,Urban,General and operations,SP
+GK-14620,Grace Kelly,Consumer,United States,Hesperia,California,92345,West,28,56000,2,African American,Semi-Urban,Computer and information systems,SP
+DJ-13510,Don Jones,Consumer,United States,Murfreesboro,Tennessee,37130,South,45,90000,4,Caucasian,Semi-Urban,Facilities,EN
+PO-18850,Patrick O'Brill,Consumer,United States,Philadelphia,Pennsylvania,19143,East,32,64000,2,Caucasian,Urban,Administrative services,EN
+JL-15850,John Lucas,Consumer,United States,Philadelphia,Pennsylvania,19134,East,27,54000,2,Asian,Urban,Legislators,EN
+DB-13615,Doug Bickford,Consumer,United States,Los Angeles,California,90045,West,46,92000,5,Caucasian,Urban,Public relations and fundraising,SP
+AC-10420,Alyssa Crouse,Consumer,United States,San Francisco,California,94122,West,38,76000,3,African American,Urban,Computer and information systems,SP
+CC-12550,Clay Cheatham,Consumer,United States,San Francisco,California,94122,West,44,88000,3,Caucasian,Urban,Legislators,SP
+TD-20995,Tamara Dahlen,Consumer,United States,Lowell,Massachusetts,1852,East,56,112000,4,African American,Urban,Legislators,EN
+AB-10060,Adam Bellavance,Consumer,United States,New York City,New York,10009,East,26,52000,1,Hispanic,Urban,Administrative services,EN
+JL-15505,Jeremy Lonsdale,Consumer,United States,New York City,New York,10035,East,46,92000,5,African American,Urban,Computer and information systems,EN
+VB-21745,Victoria Brennan,Consumer,United States,Columbus,Georgia,31907,South,25,50000,2,Caucasian,Urban,Administrative services,EN
+KW-16435,Katrina Willman,Consumer,United States,New York City,New York,10009,East,31,62000,1,Asian,Urban,Sales,EN
+JD-16060,Julia Dunbar,Consumer,United States,San Francisco,California,94109,West,50,100000,5,Caucasian,Urban,Administrative services,SP
+MK-17905,Michael Kennedy,Consumer,United States,Manchester,Connecticut,6040,East,33,66000,1,Caucasian,Urban,Administrative services,EN
+GT-14755,Guy Thornton,Consumer,United States,Harlingen,Texas,78550,Central,27,54000,1,African American,Urban,Facilities,SP
+AG-10900,Arthur Gainer,Consumer,United States,Tucson,Arizona,85705,West,41,82000,3,Hispanic,Semi-Urban,Sales,SP
+MM-18280,Muhammed MacIntyre,Consumer,United States,Quincy,Illinois,62301,Central,53,106000,4,Hispanic,Rural,Legislators,EN
+AR-10405,Allen Rosenblatt,Consumer,United States,Franklin,Massachusetts,2038,East,28,56000,2,African American,Urban,Computer and information systems,EN
+RA-19915,Russell Applegate,Consumer,United States,Houston,Texas,77095,Central,27,54000,1,Caucasian,Semi-Urban,Facilities,SP
+AS-10285,Alejandro Savely,Consumer,United States,San Francisco,California,94109,West,59,118000,5,Caucasian,Rural,Administrative services,SP
+LA-16780,Laura Armstrong,Consumer,United States,Taylor,Michigan,48180,Central,26,52000,1,Asian,Urban,Facilities,EN
+DO-13435,Denny Ordway,Consumer,United States,Pembroke Pines,Florida,33024,South,46,92000,5,Caucasian,Rural,Legislators,EN
+DK-13225,Dean Katz,Consumer,United States,Philadelphia,Pennsylvania,19140,East,46,92000,4,African American,Urban,Sales,EN
+NG-18430,Nathan Gelder,Consumer,United States,Cincinnati,Ohio,45231,East,55,110000,5,Caucasian,Urban,Chief executives,EN
+MV-18190,Mike Vittorini,Consumer,United States,New York City,New York,10009,East,28,56000,2,Caucasian,Urban,Chief executives,EN
+JG-15115,Jack Garza,Consumer,United States,Des Moines,Washington,98198,West,58,116000,4,Hispanic,Rural,Legislators,EN
+BP-11095,Bart Pistole,Consumer,United States,Peoria,Illinois,61604,Central,45,90000,5,Hispanic,Urban,Marketing,EN
+VP-21730,Victor Preis,Consumer,United States,Las Vegas,Nevada,89115,West,29,58000,2,Caucasian,Urban,Chief executives,SP
+SS-20140,Saphhira Shifley,Consumer,United States,Warwick,Rhode Island,2886,East,35,70000,1,Asian,Urban,Legislators,EN
+AG-10675,Anna Gayman,Consumer,United States,Houston,Texas,77036,Central,56,112000,5,Caucasian,Urban,Marketing,SP
+LF-17185,Luke Foster,Consumer,United States,Miami,Florida,33180,South,49,98000,5,Asian,Semi-Urban,Computer and information systems,EN
+RF-19840,Roy Französisc,Consumer,United States,New York City,New York,10024,East,54,108000,4,Asian,Urban,Legislators,EN
+KH-16510,Keith Herrera,Consumer,United States,San Francisco,California,94110,West,51,102000,4,Caucasian,Urban,Advertising and promotions,SP
+KC-16675,Kimberly Carter,Consumer,United States,Seattle,Washington,98105,West,28,56000,2,Asian,Urban,Legislators,EN
+CJ-12010,Caroline Jumper,Consumer,United States,Huntington Beach,California,92646,West,53,106000,5,Hispanic,Rural,Legislators,SP
+PB-19150,Philip Brown,Consumer,United States,Los Angeles,California,90004,West,28,56000,1,Asian,Urban,Facilities,SP
+MP-17965,Michael Paige,Consumer,United States,Lawrence,Massachusetts,1841,East,28,56000,1,Caucasian,Rural,Public relations and fundraising,EN
+NF-18385,Natalie Fritzler,Consumer,United States,Jackson,Mississippi,39212,South,53,106000,5,Hispanic,Semi-Urban,Chief executives,EN
+SD-20485,Shirley Daniels,Consumer,United States,New Rochelle,New York,10801,East,30,60000,2,Hispanic,Urban,Advertising and promotions,EN
+KH-16630,Ken Heidel,Consumer,United States,San Antonio,Texas,78207,Central,59,118000,4,Caucasian,Semi-Urban,Chief executives,SP
+RB-19795,Ross Baird,Consumer,United States,Gastonia,North Carolina,28052,South,29,58000,2,Asian,Urban,Facilities,EN
+MK-18160,Mike Kennedy,Consumer,United States,Jacksonville,Florida,32216,South,50,100000,5,Caucasian,Rural,Legislators,EN
+PO-19180,Philisse Overcash,Consumer,United States,Chicago,Illinois,60623,Central,43,86000,3,Caucasian,Rural,Marketing,EN
+BB-11545,Brenda Bowman,Consumer,United States,Houston,Texas,77070,Central,47,94000,4,Caucasian,Urban,General and operations,SP
+TB-21595,Troy Blackwell,Consumer,United States,Columbus,Indiana,47201,Central,25,50000,2,Asian,Rural,Public relations and fundraising,EN
+RB-19360,Raymond Buch,Consumer,United States,Auburn,New York,13021,East,46,92000,5,Caucasian,Rural,Advertising and promotions,EN
+EB-13705,Ed Braxton,Consumer,United States,Akron,Ohio,44312,East,36,72000,3,Asian,Urban,Chief executives,EN
+SC-20095,Sanjit Chand,Consumer,United States,Concord,California,94521,West,47,94000,5,African American,Urban,Advertising and promotions,SP
+TN-21040,Tanja Norvell,Consumer,United States,Phoenix,Arizona,85023,West,32,64000,1,Caucasian,Rural,Sales,SP
+JS-15940,Joni Sundaresam,Consumer,United States,Park Ridge,Illinois,60068,Central,41,82000,3,Caucasian,Urban,Public relations and fundraising,EN
+MH-17785,Maya Herman,Consumer,United States,Lindenhurst,New York,11757,East,43,86000,3,African American,Urban,Public relations and fundraising,EN
+JP-15520,Jeremy Pistek,Consumer,United States,San Francisco,California,94110,West,48,96000,5,African American,Rural,Sales,SP
+JE-15475,Jeremy Ellison,Consumer,United States,Troy,New York,12180,East,39,78000,3,Caucasian,Urban,Legislators,EN
+JG-15805,John Grady,Consumer,United States,New York City,New York,10024,East,46,92000,5,Hispanic,Urban,Chief executives,EN
+XP-21865,Xylona Preis,Consumer,United States,San Diego,California,92024,West,35,70000,3,Asian,Urban,Sales,SP
+EM-14065,Erin Mull,Consumer,United States,New York City,New York,10024,East,41,82000,3,Caucasian,Urban,Administrative services,EN
+MT-18070,Michelle Tran,Consumer,United States,Los Angeles,California,90045,West,55,110000,5,Asian,Semi-Urban,General and operations,SP
+SA-20830,Sue Ann Reed,Consumer,United States,Chicago,Illinois,60610,Central,51,102000,4,Hispanic,Urban,Facilities,EN
+CW-11905,Carl Weiss,Consumer,United States,Huntsville,Texas,77340,Central,29,58000,2,African American,Rural,Facilities,SP
+AJ-10960,Astrea Jones,Consumer,United States,Rochester,New York,14609,East,39,78000,3,Caucasian,Urban,Legislators,EN
+SS-20590,Sonia Sunley,Consumer,United States,Seattle,Washington,98115,West,41,82000,3,Caucasian,Rural,Administrative services,EN
+RO-19780,Rose O'Brian,Consumer,United States,Memphis,Tennessee,38109,South,25,50000,1,Caucasian,Urban,Facilities,EN
+MD-17350,Maribeth Dona,Consumer,United States,Fayetteville,Arkansas,72701,South,28,56000,2,Hispanic,Rural,Legislators,EN
+MY-17380,Maribeth Yedwab,Consumer,United States,Parker,Colorado,80134,West,48,96000,5,Asian,Semi-Urban,Advertising and promotions,SP
+CM-12385,Christopher Martinez,Consumer,United States,Atlanta,Georgia,30318,South,43,86000,3,African American,Rural,General and operations,EN
+LS-17245,Lynn Smith,Consumer,United States,Gladstone,Missouri,64118,Central,40,80000,3,Caucasian,Semi-Urban,General and operations,EN
+BN-11515,Bradley Nguyen,Consumer,United States,Los Angeles,California,90049,West,38,76000,3,Caucasian,Urban,Computer and information systems,SP
+DB-13210,Dean Braden,Consumer,United States,Houston,Texas,77041,Central,30,60000,1,Caucasian,Rural,Facilities,SP
+MC-17605,Matt Connell,Consumer,United States,Detroit,Michigan,48234,Central,40,80000,3,Caucasian,Semi-Urban,Facilities,EN
+BD-11605,Brian Dahlen,Consumer,United States,Lawrence,Massachusetts,1841,East,29,58000,2,Hispanic,Urban,Chief executives,EN
+PH-18790,Patricia Hirasaki,Consumer,United States,Lakeland,Florida,33801,South,36,72000,3,African American,Rural,Chief executives,EN
+MG-18145,Mike Gockenbach,Consumer,United States,Philadelphia,Pennsylvania,19134,East,38,76000,3,Caucasian,Rural,Chief executives,EN
+KB-16240,Karen Bern,Consumer,United States,Los Angeles,California,90036,West,30,60000,2,Hispanic,Semi-Urban,Administrative services,SP
+JC-15340,Jasper Cacioppo,Consumer,United States,Los Angeles,California,90032,West,35,70000,1,African American,Urban,Legislators,SP
+RL-19615,Rob Lucas,Consumer,United States,Montgomery,Alabama,36116,South,36,72000,3,Caucasian,Semi-Urban,Public relations and fundraising,EN
+AA-10375,Allen Armold,Consumer,United States,Mesa,Arizona,85204,West,39,78000,3,African American,Urban,Legislators,SP
+EP-13915,Emily Phan,Consumer,United States,Chicago,Illinois,60653,Central,56,112000,5,Caucasian,Urban,Computer and information systems,EN
+DK-12985,Darren Koutras,Consumer,United States,Henderson,Kentucky,42420,South,50,100000,5,Caucasian,Urban,Legislators,EN
+BD-11500,Bradley Drucker,Consumer,United States,Green Bay,Wisconsin,54302,Central,58,116000,5,Caucasian,Urban,Public relations and fundraising,EN
+LM-17065,Liz MacKendrick,Consumer,United States,Springfield,Ohio,45503,East,26,52000,2,Hispanic,Semi-Urban,Administrative services,EN
+AS-10135,Adrian Shami,Consumer,United States,New York City,New York,10035,East,26,52000,1,Caucasian,Urban,Advertising and promotions,EN
+BD-11320,Bill Donatelli,Consumer,United States,San Francisco,California,94110,West,26,52000,1,Hispanic,Rural,Chief executives,SP
+GT-14710,Greg Tran,Consumer,United States,Houston,Texas,77070,Central,57,114000,4,African American,Urban,Computer and information systems,SP
+AJ-10945,Ashley Jarboe,Consumer,United States,Wilmington,North Carolina,28403,South,58,116000,5,Asian,Urban,Marketing,EN
+OT-18730,Olvera Toch,Consumer,United States,Los Angeles,California,90045,West,28,56000,2,African American,Rural,Marketing,SP
+LP-17080,Liz Pelletier,Consumer,United States,San Francisco,California,94110,West,33,66000,2,African American,Urban,Facilities,SP
+CA-12775,Cynthia Arntzen,Consumer,United States,Tampa,Florida,33614,South,52,104000,4,Caucasian,Rural,Marketing,EN
+JF-15490,Jeremy Farry,Consumer,United States,Seattle,Washington,98105,West,51,102000,4,Hispanic,Semi-Urban,Legislators,EN
+FP-14320,Frank Preis,Consumer,United States,Los Angeles,California,90008,West,59,118000,5,Caucasian,Urban,Chief executives,SP
+EB-13840,Ellis Ballard,Consumer,United States,Seattle,Washington,98105,West,39,78000,3,Asian,Urban,Chief executives,EN
+JF-15415,Jennifer Ferguson,Consumer,United States,New York City,New York,10024,East,55,110000,4,African American,Semi-Urban,General and operations,EN
+SF-20200,Sarah Foster,Consumer,United States,Marysville,Washington,98270,West,60,120000,4,African American,Urban,General and operations,EN
+TG-21640,Trudy Glocke,Consumer,United States,Long Beach,California,90805,West,50,100000,4,Caucasian,Urban,Advertising and promotions,SP
+CS-11950,Carlos Soltero,Consumer,United States,Chicago,Illinois,60610,Central,28,56000,2,Asian,Urban,Administrative services,EN
+CC-12145,Charles Crestani,Consumer,United States,Los Angeles,California,90004,West,38,76000,3,Hispanic,Urban,Public relations and fundraising,SP
+DV-13465,Dianna Vittorini,Consumer,United States,Denver,Colorado,80219,West,46,92000,4,Asian,Urban,General and operations,SP
+BD-11725,Bruce Degenhardt,Consumer,United States,Richmond,Kentucky,40475,South,51,102000,4,Hispanic,Urban,Administrative services,EN
+ZC-21910,Zuschuss Carroll,Consumer,United States,Salem,Oregon,97301,West,51,102000,5,Hispanic,Rural,Advertising and promotions,EN
+MS-17830,Melanie Seite,Consumer,United States,Laredo,Texas,78041,Central,45,90000,3,Hispanic,Urban,Computer and information systems,SP
+LR-16915,Lena Radford,Consumer,United States,San Diego,California,92024,West,43,86000,3,Hispanic,Urban,Facilities,SP
+TP-21130,Theone Pippenger,Consumer,United States,Philadelphia,Pennsylvania,19134,East,27,54000,1,Hispanic,Rural,Marketing,EN
+CK-12205,Chloris Kastensmidt,Consumer,United States,Philadelphia,Pennsylvania,19120,East,25,50000,2,Caucasian,Rural,Chief executives,EN
+AS-10240,Alan Shonely,Consumer,United States,Tampa,Florida,33614,South,58,116000,5,Caucasian,Rural,Administrative services,EN
+AR-10510,Andrew Roberts,Consumer,United States,Philadelphia,Pennsylvania,19134,East,28,56000,1,Hispanic,Urban,Facilities,EN
+NB-18655,Nona Balk,Consumer,United States,Dallas,Texas,75217,Central,46,92000,5,Caucasian,Semi-Urban,Computer and information systems,SP
+GD-14590,Giulietta Dortch,Consumer,United States,Philadelphia,Pennsylvania,19143,East,34,68000,2,African American,Urban,Legislators,EN
+CK-12595,Clytie Kelty,Consumer,United States,Grove City,Ohio,43123,East,25,50000,1,Hispanic,Urban,Public relations and fundraising,EN
+NG-18355,Nat Gilpin,Consumer,United States,New York City,New York,10011,East,25,50000,2,Caucasian,Urban,Marketing,EN
+CA-12265,Christina Anderson,Consumer,United States,Chicago,Illinois,60610,Central,56,112000,5,Asian,Urban,Computer and information systems,EN
+SF-20965,Sylvia Foulston,Consumer,United States,Dearborn,Michigan,48126,Central,40,80000,3,Hispanic,Urban,Facilities,EN
+MO-17800,Meg O'Connel,Consumer,United States,New York City,New York,10009,East,59,118000,4,Asian,Semi-Urban,Public relations and fundraising,EN
+AT-10735,Annie Thurman,Consumer,United States,Seattle,Washington,98115,West,45,90000,3,Hispanic,Urban,Public relations and fundraising,EN
+FM-14380,Fred McMath,Consumer,United States,Aurora,Colorado,80013,West,52,104000,5,Caucasian,Urban,Computer and information systems,SP
+DJ-13420,Denny Joy,Consumer,United States,Warner Robins,Georgia,31088,South,36,72000,3,Asian,Urban,Administrative services,EN
+ME-17725,Max Engle,Consumer,United States,Aurora,Colorado,80013,West,31,62000,2,African American,Rural,Public relations and fundraising,SP
+JD-16150,Justin Deggeller,Consumer,United States,Minneapolis,Minnesota,55407,Central,41,82000,3,African American,Semi-Urban,Legislators,EN
+JL-15835,John Lee,Consumer,United States,Mission Viejo,California,92691,West,25,50000,2,Hispanic,Urban,Chief executives,SP
+SC-20305,Sean Christensen,Consumer,United States,Rochester Hills,Michigan,48307,Central,38,76000,3,Hispanic,Urban,Legislators,EN
+CC-12430,Chuck Clark,Consumer,United States,Columbus,Indiana,47201,Central,46,92000,5,Hispanic,Urban,Chief executives,EN
+AR-10825,Anthony Rawles,Consumer,United States,Vancouver,Washington,98661,West,51,102000,4,Caucasian,Rural,General and operations,EN
+SR-20740,Steven Roelle,Consumer,United States,New York City,New York,10024,East,58,116000,5,African American,Urban,Chief executives,EN
+CR-12730,Craig Reiter,Consumer,United States,Columbus,Ohio,43229,East,39,78000,3,African American,Urban,Legislators,EN
+EH-14125,Eugene Hildebrand,Consumer,United States,Aurora,Illinois,60505,Central,31,62000,1,African American,Rural,Sales,EN
+SP-20545,Sibella Parks,Consumer,United States,New York City,New York,10011,East,32,64000,2,Hispanic,Rural,Computer and information systems,EN
+TH-21235,Tiffany House,Consumer,United States,Dallas,Texas,75081,Central,49,98000,5,Hispanic,Rural,Facilities,SP
+RP-19390,Resi Pölkin,Consumer,United States,Cleveland,Ohio,44105,East,47,94000,5,Caucasian,Urban,Sales,EN
+RB-19570,Rob Beeghly,Consumer,United States,Columbus,Indiana,47201,Central,34,68000,2,Caucasian,Rural,Advertising and promotions,EN
+CD-11980,Carol Darley,Consumer,United States,Tyler,Texas,75701,Central,38,76000,3,Caucasian,Urban,Marketing,SP
+DJ-13630,Doug Jacobs,Consumer,United States,New York City,New York,10024,East,52,104000,4,Caucasian,Urban,Administrative services,EN
+GT-14635,Grant Thornton,Consumer,United States,Burlington,North Carolina,27217,South,31,62000,1,Caucasian,Rural,Facilities,EN
+MC-17845,Michael Chen,Consumer,United States,Jackson,Mississippi,39212,South,34,68000,2,Caucasian,Urban,Legislators,EN
+RA-19285,Ralph Arnett,Consumer,United States,New York City,New York,10035,East,40,80000,3,Asian,Semi-Urban,Administrative services,EN
+NP-18325,Naresj Patel,Consumer,United States,Waynesboro,Virginia,22980,South,36,72000,3,Hispanic,Urban,Sales,EN
+AB-10165,Alan Barnes,Consumer,United States,Los Angeles,California,90036,West,25,50000,2,Asian,Urban,Facilities,SP
+JO-15550,Jesus Ocampo,Consumer,United States,Chester,Pennsylvania,19013,East,27,54000,1,Hispanic,Urban,Public relations and fundraising,EN
+JK-15370,Jay Kimmel,Consumer,United States,Long Beach,California,90805,West,47,94000,5,Caucasian,Rural,Advertising and promotions,SP
+BN-11470,Brad Norvell,Consumer,United States,Cary,North Carolina,27511,South,56,112000,4,Caucasian,Semi-Urban,Advertising and promotions,EN
+DP-13165,David Philippe,Consumer,United States,New York City,New York,10035,East,48,96000,5,African American,Semi-Urban,Advertising and promotions,EN
+TH-21550,Tracy Hopkins,Consumer,United States,New York City,New York,10035,East,35,70000,1,Caucasian,Urban,Sales,EN
+AP-10915,Arthur Prichep,Consumer,United States,Palm Coast,Florida,32137,South,30,60000,1,Caucasian,Urban,General and operations,EN
+RS-19765,Roland Schwarz,Consumer,United States,Mount Vernon,New York,10550,East,53,106000,4,Caucasian,Urban,Facilities,EN
+SV-20365,Seth Vernon,Consumer,United States,Dover,Delaware,19901,East,56,112000,4,African American,Rural,Facilities,EN
+CK-12325,Christine Kargatis,Consumer,United States,Orem,Utah,84057,West,45,90000,4,Asian,Urban,Public relations and fundraising,EN
+RD-19810,Ross DeVincentis,Consumer,United States,Los Angeles,California,90045,West,39,78000,3,Asian,Urban,Legislators,SP
+MR-17545,Mathew Reese,Consumer,United States,Philadelphia,Pennsylvania,19140,East,30,60000,2,Caucasian,Semi-Urban,Facilities,EN
+SC-20695,Steve Chapman,Consumer,United States,Hialeah,Florida,33012,South,51,102000,4,Caucasian,Semi-Urban,Sales,EN
+JF-15355,Jay Fein,Consumer,United States,Austin,Texas,78745,Central,36,72000,3,African American,Urban,Sales,SP
+EG-13900,Emily Grady,Consumer,United States,Oceanside,New York,11572,East,35,70000,3,African American,Semi-Urban,General and operations,EN
+DS-13030,Darrin Sayre,Consumer,United States,Seattle,Washington,98115,West,27,54000,2,African American,Urban,Computer and information systems,EN
+PO-19195,Phillina Ober,Consumer,United States,Naperville,Illinois,60540,Central,54,108000,4,Caucasian,Urban,Advertising and promotions,EN
+SS-20875,Sung Shariari,Consumer,United States,Dallas,Texas,75220,Central,37,74000,3,African American,Urban,General and operations,SP
+PB-19105,Peter Bühle,Consumer,United States,Evanston,Illinois,60201,Central,46,92000,5,Caucasian,Rural,Administrative services,EN
+RF-19735,Roland Fjeld,Consumer,United States,Trenton,Michigan,48183,Central,35,70000,2,Caucasian,Urban,Sales,EN
+YC-21895,Yoseph Carroll,Consumer,United States,San Francisco,California,94110,West,42,84000,3,Asian,Urban,Public relations and fundraising,SP
+DC-13285,Debra Catini,Consumer,United States,Cottage Grove,Minnesota,55016,Central,38,76000,3,Caucasian,Semi-Urban,Chief executives,EN
+CP-12340,Christine Phan,Consumer,United States,New York City,New York,10009,East,26,52000,1,African American,Urban,Facilities,EN
+BF-11020,Barry Französisc,Consumer,United States,Green Bay,Wisconsin,54302,Central,29,58000,2,Caucasian,Semi-Urban,Facilities,EN
+LH-17020,Lisa Hazard,Consumer,United States,Columbus,Ohio,43229,East,49,98000,4,Hispanic,Urban,Public relations and fundraising,EN
+CS-12250,Chris Selesnick,Consumer,United States,Bossier City,Louisiana,71111,South,41,82000,3,Asian,Urban,Marketing,EN
+AJ-10795,Anthony Johnson,Consumer,United States,Saint Petersburg,Florida,33710,South,32,64000,2,Hispanic,Urban,Legislators,EN
+BV-11245,Benjamin Venier,Consumer,United States,Des Moines,Iowa,50315,Central,44,88000,3,Caucasian,Semi-Urban,Legislators,EN
+DL-12865,Dan Lawera,Consumer,United States,Cincinnati,Ohio,45231,East,34,68000,1,African American,Urban,Public relations and fundraising,EN
+BM-11785,Bryan Mills,Consumer,United States,Columbus,Ohio,43229,East,44,88000,3,Caucasian,Semi-Urban,Public relations and fundraising,EN
+LT-17110,Liz Thompson,Consumer,United States,Lancaster,California,93534,West,32,64000,2,Asian,Urban,Legislators,SP
+JK-15730,Joe Kamberova,Consumer,United States,Asheville,North Carolina,28806,South,58,116000,4,Hispanic,Rural,Advertising and promotions,EN
+ES-14020,Erica Smith,Consumer,United States,San Francisco,California,94110,West,56,112000,5,Caucasian,Rural,Sales,SP
+RH-19495,Rick Hansen,Consumer,United States,Rochester,Minnesota,55901,Central,35,70000,3,Caucasian,Urban,Advertising and promotions,EN
+CD-11920,Carlos Daly,Consumer,United States,Lake Elsinore,California,92530,West,56,112000,5,Caucasian,Rural,General and operations,SP
+HW-14935,Helen Wasserman,Consumer,United States,San Diego,California,92105,West,32,64000,1,Caucasian,Urban,Public relations and fundraising,SP
+MC-18130,Mike Caudle,Consumer,United States,Monroe,Louisiana,71203,South,53,106000,4,African American,Urban,Computer and information systems,EN
+GM-14440,Gary McGarr,Consumer,United States,San Francisco,California,94122,West,55,110000,5,Hispanic,Urban,Computer and information systems,SP
+PJ-19015,Pauline Johnson,Consumer,United States,Santa Ana,California,92704,West,60,120000,4,Caucasian,Rural,Chief executives,SP
+BW-11110,Bart Watters,Consumer,United States,Milwaukee,Wisconsin,53209,Central,26,52000,1,Caucasian,Urban,Marketing,EN
+TR-21325,Toby Ritter,Consumer,United States,Belleville,New Jersey,7109,East,37,74000,3,Caucasian,Urban,Computer and information systems,EN
+PG-18820,Patrick Gardner,Consumer,United States,San Francisco,California,94110,West,53,106000,5,Asian,Urban,Public relations and fundraising,SP
+JL-15175,James Lanier,Consumer,United States,Columbia,Tennessee,38401,South,27,54000,1,African American,Rural,Sales,EN
+BM-11650,Brian Moss,Consumer,United States,New York City,New York,10035,East,42,84000,3,African American,Urban,Public relations and fundraising,EN
+EM-14095,Eudokia Martin,Consumer,United States,Los Angeles,California,90036,West,31,62000,2,African American,Urban,Marketing,SP
+AF-10885,Art Foster,Consumer,United States,Louisville,Kentucky,40214,South,44,88000,3,Hispanic,Semi-Urban,Advertising and promotions,EN
+GA-14725,Guy Armstrong,Consumer,United States,Lorain,Ohio,44052,East,33,66000,1,Hispanic,Rural,General and operations,EN
+CK-12760,Cyma Kinney,Consumer,United States,Linden,New Jersey,7036,East,29,58000,1,Hispanic,Rural,Public relations and fundraising,EN
+DP-13105,Dave Poirier,Consumer,United States,Salinas,California,93905,West,51,102000,5,Caucasian,Rural,General and operations,SP
+BK-11260,Berenike Kampe,Consumer,United States,New York City,New York,10035,East,25,50000,2,Caucasian,Urban,Legislators,EN
+SJ-20125,Sanjit Jacobs,Consumer,United States,New Brunswick,New Jersey,8901,East,25,50000,1,African American,Urban,Computer and information systems,EN
+CM-12445,Chuck Magee,Consumer,United States,San Francisco,California,94122,West,49,98000,4,Hispanic,Urban,Legislators,SP
+AJ-10780,Anthony Jacobs,Consumer,United States,Springfield,Virginia,22153,South,28,56000,2,Hispanic,Urban,Marketing,EN
+LS-16945,Linda Southworth,Consumer,United States,Philadelphia,Pennsylvania,19140,East,31,62000,1,Hispanic,Urban,Legislators,EN
+GP-14740,Guy Phonely,Consumer,United States,Lancaster,Pennsylvania,17602,East,34,68000,1,Caucasian,Urban,Public relations and fundraising,EN
+PK-18910,Paul Knutson,Consumer,United States,Philadelphia,Pennsylvania,19143,East,25,50000,2,African American,Urban,Computer and information systems,EN
+SM-20005,Sally Matthias,Consumer,United States,New York City,New York,10009,East,49,98000,5,Asian,Rural,Advertising and promotions,EN
+AG-10765,Anthony Garverick,Consumer,United States,Philadelphia,Pennsylvania,19120,East,59,118000,4,Caucasian,Urban,Administrative services,EN
+PM-19135,Peter McVee,Consumer,United States,Detroit,Michigan,48227,Central,59,118000,4,Caucasian,Urban,Administrative services,EN
+LL-16840,Lauren Leatherbury,Consumer,United States,Rochester,New York,14609,East,35,70000,1,Hispanic,Semi-Urban,Marketing,EN
+JS-15595,Jill Stevenson,Consumer,United States,Los Angeles,California,90045,West,47,94000,4,Hispanic,Urban,Public relations and fundraising,SP
+EL-13735,Ed Ludwig,Consumer,United States,Columbia,Maryland,21044,East,46,92000,4,Asian,Urban,Sales,EN
+PC-18745,Pamela Coakley,Consumer,United States,San Francisco,California,94122,West,32,64000,2,Caucasian,Rural,Administrative services,SP
+HL-15040,Hunter Lopez,Consumer,United States,Houston,Texas,77095,Central,35,70000,1,African American,Rural,Marketing,SP
+MS-17365,Maribeth Schnelling,Consumer,United States,Detroit,Michigan,48227,Central,32,64000,2,Asian,Semi-Urban,Administrative services,EN
+GB-14530,George Bell,Consumer,United States,Auburn,New York,13021,East,27,54000,1,Caucasian,Rural,Administrative services,EN
+JR-16210,Justin Ritter,Consumer,United States,Springfield,Ohio,45503,East,35,70000,2,Caucasian,Urban,Computer and information systems,EN
+BE-11335,Bill Eplett,Consumer,United States,Jackson,Michigan,49201,Central,27,54000,2,African American,Semi-Urban,Computer and information systems,EN
+SC-20050,Sample Company A,Consumer,United States,Norwich,Connecticut,6360,East,30,60000,1,Hispanic,Urban,Facilities,EN
+RW-19630,Rob Williams,Consumer,United States,Dallas,Texas,75220,Central,58,116000,5,African American,Urban,Chief executives,SP
+SE-20110,Sanjit Engle,Consumer,United States,New York City,New York,10009,East,39,78000,3,Hispanic,Urban,Chief executives,EN
+AH-10075,Adam Hart,Consumer,United States,New York City,New York,10011,East,27,54000,1,Caucasian,Semi-Urban,Legislators,EN
+JM-15535,Jessica Myrick,Consumer,United States,Philadelphia,Pennsylvania,19143,East,29,58000,2,Caucasian,Semi-Urban,Public relations and fundraising,EN
+JJ-15760,Joel Jenkins,Consumer,United States,Springfield,Virginia,22153,South,48,96000,4,Caucasian,Urban,Marketing,EN
+RK-19300,Ralph Kennedy,Consumer,United States,Philadelphia,Pennsylvania,19140,East,51,102000,5,Caucasian,Semi-Urban,Chief executives,EN
+CG-12040,Catherine Glotzbach,Consumer,United States,Philadelphia,Pennsylvania,19120,East,47,94000,4,Hispanic,Urban,Chief executives,EN
+RP-19270,Rachel Payne,Consumer,United States,Riverside,California,92503,West,29,58000,2,Asian,Urban,Computer and information systems,SP
+KC-16255,Karen Carlisle,Consumer,United States,San Francisco,California,94110,West,28,56000,2,African American,Urban,Public relations and fundraising,SP
+KH-16360,Katherine Hughes,Consumer,United States,Philadelphia,Pennsylvania,19143,East,50,100000,5,Hispanic,Rural,Administrative services,EN
+GH-14665,Greg Hansen,Consumer,United States,Round Rock,Texas,78664,Central,55,110000,5,African American,Semi-Urban,Administrative services,SP
+SW-20275,Scott Williamson,Consumer,United States,Jackson,Mississippi,39212,South,42,84000,3,Asian,Urban,Advertising and promotions,EN
+JA-15970,Joseph Airdo,Consumer,United States,Phoenix,Arizona,85023,West,35,70000,3,African American,Semi-Urban,Facilities,SP
+DL-12925,Daniel Lacy,Consumer,United States,Oceanside,California,92054,West,53,106000,4,African American,Semi-Urban,General and operations,SP
+LW-16990,Lindsay Williams,Consumer,United States,San Francisco,California,94110,West,38,76000,3,Hispanic,Urban,Legislators,SP
+TB-21190,Thomas Brumley,Consumer,United States,Fayetteville,Arkansas,72701,South,56,112000,5,Caucasian,Urban,Chief executives,EN
+BS-11800,Bryan Spruell,Consumer,United States,New York City,New York,10011,East,56,112000,5,African American,Urban,Administrative services,EN
+RW-19690,Robert Waldorf,Consumer,United States,Wilmington,North Carolina,28403,South,33,66000,2,Asian,Urban,Marketing,EN
+TZ-21580,Tracy Zic,Consumer,United States,Louisville,Colorado,80027,West,59,118000,4,Asian,Urban,Public relations and fundraising,SP
+AS-10630,Ann Steele,Consumer,United States,Pasadena,Texas,77506,Central,56,112000,5,Hispanic,Urban,Computer and information systems,SP
+TS-21340,Toby Swindell,Consumer,United States,Houston,Texas,77041,Central,45,90000,5,Hispanic,Urban,Public relations and fundraising,SP
+SL-20155,Sara Luxemburg,Consumer,United States,Jacksonville,Florida,32216,South,43,86000,3,Caucasian,Semi-Urban,Legislators,EN
+MW-18235,Mitch Willingham,Consumer,United States,Virginia Beach,Virginia,23464,South,37,74000,3,Asian,Urban,Legislators,EN
+RD-19585,Rob Dowd,Consumer,United States,Henderson,Kentucky,42420,South,36,72000,3,African American,Urban,General and operations,EN
+RA-19945,Ryan Akin,Consumer,United States,Murrieta,California,92563,West,45,90000,3,Caucasian,Urban,Marketing,SP
+MT-17815,Meg Tillman,Consumer,United States,Scottsdale,Arizona,85254,West,35,70000,3,Caucasian,Urban,Legislators,SP
+VG-21790,Vivek Gonzalez,Consumer,United States,San Diego,California,92037,West,36,72000,3,African American,Urban,Advertising and promotions,SP
+JS-15880,John Stevenson,Consumer,United States,Seattle,Washington,98103,West,33,66000,1,Caucasian,Semi-Urban,Marketing,EN
+KM-16225,Kalyca Meade,Consumer,United States,New York City,New York,10011,East,54,108000,4,Hispanic,Rural,Chief executives,EN
+HR-14770,Hallie Redmond,Consumer,United States,Los Angeles,California,90045,West,35,70000,3,African American,Semi-Urban,Computer and information systems,SP
+DE-13255,Deanra Eno,Consumer,United States,Springfield,Ohio,45503,East,49,98000,5,Hispanic,Urban,Public relations and fundraising,EN
+AG-10390,Allen Goldenen,Consumer,United States,Cincinnati,Ohio,45231,East,28,56000,1,Asian,Urban,Marketing,EN
+JJ-15445,Jennifer Jackson,Consumer,United States,Los Angeles,California,90004,West,48,96000,5,Caucasian,Semi-Urban,Public relations and fundraising,SP
+JH-15430,Jennifer Halladay,Consumer,United States,Burlington,North Carolina,27217,South,33,66000,1,Asian,Urban,Administrative services,EN
+RD-19660,Robert Dilbeck,Consumer,United States,Saint Peters,Missouri,63376,Central,30,60000,1,Caucasian,Rural,General and operations,EN
+MO-17500,Mary O'Rourke,Consumer,United States,New York City,New York,10035,East,49,98000,5,Asian,Urban,Marketing,EN
+NS-18640,Noel Staavos,Consumer,United States,Chicago,Illinois,60610,Central,30,60000,1,Hispanic,Urban,Marketing,EN
+DG-13300,Deirdre Greer,Consumer,United States,Philadelphia,Pennsylvania,19134,East,29,58000,1,Hispanic,Semi-Urban,Legislators,EN
+NF-18595,Nicole Fjeld,Consumer,United States,New York City,New York,10009,East,56,112000,4,Asian,Rural,Administrative services,EN
+MG-17650,Matthew Grinstein,Consumer,United States,Philadelphia,Pennsylvania,19143,East,46,92000,5,Hispanic,Urban,Marketing,EN
+TS-21160,Theresa Swint,Consumer,United States,Toledo,Ohio,43615,East,30,60000,1,Hispanic,Rural,Legislators,EN
+BD-11620,Brian DeCherney,Consumer,United States,San Francisco,California,94122,West,46,92000,4,Caucasian,Urban,Public relations and fundraising,SP
+CM-12160,Charles McCrossin,Consumer,United States,Brownsville,Texas,78521,Central,28,56000,2,Caucasian,Urban,Marketing,SP
+SN-20560,Skye Norling,Consumer,United States,Los Angeles,California,90008,West,45,90000,3,Caucasian,Urban,Legislators,SP
+EH-14005,Erica Hernandez,Consumer,United States,Denver,Colorado,80219,West,49,98000,4,Asian,Urban,General and operations,SP
+FO-14305,Frank Olsen,Consumer,United States,New York City,New York,10035,East,45,90000,4,African American,Urban,Public relations and fundraising,EN
+MS-17710,Maurice Satty,Consumer,United States,Mesa,Arizona,85204,West,29,58000,1,Hispanic,Rural,Administrative services,SP
+CC-12100,Chad Cunningham,Consumer,United States,Columbus,Indiana,47201,Central,30,60000,2,Hispanic,Semi-Urban,Chief executives,EN
+DW-13540,Don Weiss,Consumer,United States,Seattle,Washington,98105,West,54,108000,4,Asian,Urban,General and operations,EN
+BT-11395,Bill Tyler,Consumer,United States,Detroit,Michigan,48227,Central,49,98000,4,Asian,Semi-Urban,Marketing,EN
+CY-12745,Craig Yedwab,Consumer,United States,Oakland,California,94601,West,26,52000,2,Caucasian,Urban,Facilities,SP
+BT-11485,Brad Thomas,Consumer,United States,Clinton,Maryland,20735,East,32,64000,1,African American,Rural,Computer and information systems,EN
+PS-19045,Penelope Sewall,Consumer,United States,Charlotte,North Carolina,28205,South,57,114000,5,Caucasian,Urban,Chief executives,EN
+PV-18985,Paul Van Hugh,Consumer,United States,San Francisco,California,94122,West,47,94000,4,Caucasian,Urban,Advertising and promotions,SP
+NM-18520,Neoma Murray,Consumer,United States,Riverside,California,92503,West,55,110000,5,Hispanic,Urban,Public relations and fundraising,SP
+DL-13495,Dionis Lloyd,Consumer,United States,San Francisco,California,94110,West,44,88000,3,Asian,Semi-Urban,Sales,SP
+CS-12355,Christine Sundaresam,Consumer,United States,Roswell,Georgia,30076,South,46,92000,5,African American,Urban,Computer and information systems,EN
+FH-14275,Frank Hawley,Consumer,United States,La Porte,Indiana,46350,Central,32,64000,2,African American,Urban,Sales,EN
+NC-18340,Nat Carroll,Consumer,United States,Lansing,Michigan,48911,Central,58,116000,5,Hispanic,Urban,Marketing,EN
+AA-10315,Alex Avila,Consumer,United States,Minneapolis,Minnesota,55407,Central,57,114000,5,Hispanic,Urban,Public relations and fundraising,EN
+LT-16765,Larry Tron,Consumer,United States,Escondido,California,92025,West,35,70000,3,Asian,Urban,Administrative services,SP
+AP-10720,Anne Pryor,Employee,United States,New York City,New York,10035,East,45,90000,5,Hispanic,Rural,Associate,EN
+PM-18940,Paul MacIntyre,Consumer,United States,Jackson,Michigan,49201,Central,46,92000,5,Hispanic,Urban,General and operations,EN
+AT-10435,Alyssa Tate,Employee,United States,Los Angeles,California,90004,West,35,70000,3,Hispanic,Semi-Urban,Associate,SP
+CA-12055,Cathy Armstrong,Employee,United States,Houston,Texas,77070,Central,28,56000,1,African American,Semi-Urban,Housekeeping,SP
+HR-14830,Harold Ryan,Consumer,United States,Seattle,Washington,98103,West,30,60000,1,Caucasian,Urban,Public relations and fundraising,EN
+BT-11530,Bradley Talbott,Employee,United States,Los Angeles,California,90036,West,25,50000,1,Hispanic,Urban,Housekeeping,SP
+LH-16750,Larry Hughes,Consumer,United States,Charlotte,North Carolina,28205,South,52,104000,4,Asian,Urban,Advertising and promotions,EN
+SW-20755,Steven Ward,Consumer,United States,New York City,New York,10009,East,28,56000,1,Caucasian,Urban,Chief executives,EN
+SP-20620,Stefania Perrino,Consumer,United States,Philadelphia,Pennsylvania,19134,East,45,90000,5,Caucasian,Rural,Administrative services,EN
+BF-11170,Ben Ferrer,Employee,United States,Los Angeles,California,90036,West,49,98000,4,African American,Rural,Housekeeping,SP
+KT-16480,Kean Thornton,Consumer,United States,Buffalo,New York,14215,East,28,56000,2,Hispanic,Urban,Computer and information systems,EN
+BG-11695,Brooke Gillingham,Consumer,United States,Cincinnati,Ohio,45231,East,60,120000,4,African American,Rural,General and operations,EN
+GM-14680,Greg Matthias,Consumer,United States,Seattle,Washington,98105,West,42,84000,3,African American,Semi-Urban,Public relations and fundraising,EN
+EJ-14155,Eva Jacobs,Consumer,United States,Gulfport,Mississippi,39503,South,26,52000,2,Caucasian,Urban,Computer and information systems,EN
+NP-18700,Nora Preis,Consumer,United States,Fresno,California,93727,West,52,104000,4,Caucasian,Urban,Marketing,SP
+MH-18115,Mick Hernandez,Employee,United States,Chester,Pennsylvania,19013,East,33,66000,1,Hispanic,Urban,Cashier,EN
+JR-15700,Jocasta Rupert,Consumer,United States,Jacksonville,Florida,32216,South,49,98000,5,Caucasian,Urban,General and operations,EN
+SM-20950,Suzanne McNair,Consumer,United States,Greenville,North Carolina,27834,South,53,106000,4,Hispanic,Urban,Advertising and promotions,EN
+CC-12220,Chris Cortes,Consumer,United States,La Porte,Indiana,46350,Central,49,98000,4,Caucasian,Rural,General and operations,EN
+PF-19225,Phillip Flathmann,Consumer,United States,San Francisco,California,94122,West,51,102000,4,Caucasian,Semi-Urban,Advertising and promotions,SP
+DC-12850,Dan Campbell,Consumer,United States,Florence,Alabama,35630,South,31,62000,2,African American,Urban,Marketing,EN
+BD-11770,Bryan Davis,Consumer,United States,Houston,Texas,77070,Central,28,56000,2,Hispanic,Semi-Urban,General and operations,SP
+GM-14500,Gene McClure,Consumer,United States,Providence,Rhode Island,2908,East,33,66000,1,African American,Urban,Facilities,EN
+TB-21355,Todd Boyes,Consumer,United States,New York City,New York,10009,East,46,92000,4,Hispanic,Urban,General and operations,EN
+JH-16180,Justin Hirsh,Consumer,United States,Pueblo,Colorado,81001,West,60,120000,5,African American,Urban,Marketing,SP
+EB-13975,Erica Bern,Consumer,United States,Fairfield,California,94533,West,53,106000,4,Asian,Urban,Administrative services,SP
+QJ-19255,Quincy Jones,Consumer,United States,Saint Paul,Minnesota,55106,Central,57,114000,5,Caucasian,Urban,Advertising and promotions,EN
+TC-21535,Tracy Collins,Employee,United States,Arlington,Virginia,22204,South,50,100000,5,Caucasian,Semi-Urban,Cashier,EN
+CS-12460,Chuck Sachs,Consumer,United States,Columbus,Georgia,31907,South,32,64000,1,Caucasian,Rural,Advertising and promotions,EN
+HG-14965,Henry Goldwyn,Consumer,United States,Los Angeles,California,90032,West,35,70000,2,African American,Urban,Public relations and fundraising,SP
+LW-16825,Laurel Workman,Consumer,United States,Deltona,Florida,32725,South,47,94000,5,Hispanic,Urban,Marketing,EN
+MC-17575,Matt Collins,Consumer,United States,Cincinnati,Ohio,45231,East,33,66000,1,Caucasian,Urban,Sales,EN
+LP-17095,Liz Preis,Consumer,United States,Murray,Kentucky,42071,South,27,54000,2,Hispanic,Urban,Sales,EN
+EB-14170,Evan Bailliet,Consumer,United States,Wilmington,North Carolina,28403,South,49,98000,4,Caucasian,Urban,Marketing,EN
+GZ-14545,George Zrebassa,Consumer,United States,Lawrence,Massachusetts,1841,East,39,78000,3,Hispanic,Rural,Legislators,EN
+CP-12085,Cathy Prescott,Consumer,United States,Norwich,Connecticut,6360,East,34,68000,2,Asian,Urban,Marketing,EN
+FG-14260,Frank Gastineau,Employee,United States,San Francisco,California,94110,West,57,114000,5,Asian,Urban,Cashier,SP
+LD-17005,Lisa DeCherney,Consumer,United States,San Francisco,California,94109,West,51,102000,5,Asian,Rural,Legislators,SP
+AB-10255,Alejandro Ballentine,Employee,United States,Lorain,Ohio,44052,East,48,96000,5,Asian,Semi-Urban,Associate,EN
+MN-17935,Michael Nguyen,Consumer,United States,Dallas,Texas,75220,Central,27,54000,2,Caucasian,Rural,Sales,SP
+JR-15670,Jim Radford,Consumer,United States,Middletown,Connecticut,6457,East,42,84000,3,Hispanic,Rural,Public relations and fundraising,EN
+JF-15190,Jamie Frazer,Consumer,United States,Los Angeles,California,90008,West,35,70000,3,African American,Urban,Chief executives,SP
+CM-12115,Chad McGuire,Consumer,United States,New York City,New York,10011,East,35,70000,2,Hispanic,Urban,Public relations and fundraising,EN
+AS-10045,Aaron Smayling,Consumer,United States,Jacksonville,North Carolina,28540,South,31,62000,1,Caucasian,Urban,Chief executives,EN
+BP-11290,Beth Paige,Consumer,United States,Evanston,Illinois,60201,Central,49,98000,4,Hispanic,Rural,Chief executives,EN
+ND-18370,Natalie DeCherney,Consumer,United States,Louisville,Kentucky,40214,South,51,102000,4,African American,Semi-Urban,Public relations and fundraising,EN
+LB-16735,Larry Blacks,Consumer,United States,Fort Worth,Texas,76106,Central,57,114000,4,Caucasian,Urban,Administrative services,SP
+KT-16465,Kean Takahito,Consumer,United States,Los Angeles,California,90049,West,37,74000,3,African American,Urban,Facilities,SP
+HM-14860,Harry Marie,Consumer,United States,Philadelphia,Pennsylvania,19120,East,27,54000,1,Caucasian,Rural,Advertising and promotions,EN
+AB-10600,Ann Blume,Consumer,United States,Tucson,Arizona,85705,West,30,60000,2,Asian,Rural,Computer and information systems,SP
+SZ-20035,Sam Zeldin,Employee,United States,Pico Rivera,California,90660,West,32,64000,2,Hispanic,Urban,Manager,SP
+MG-17890,Michael Granlund,Employee,United States,Clinton,Maryland,20735,East,48,96000,4,Asian,Urban,Cashier,EN
+JK-16120,Julie Kriz,Employee,United States,Aurora,Illinois,60505,Central,58,116000,4,Caucasian,Urban,Housekeeping,EN
+PP-18955,Paul Prost,Employee,United States,Smyrna,Georgia,30080,South,28,56000,1,African American,Urban,Manager,EN
+YS-21880,Yana Sorensen,Consumer,United States,Burlington,North Carolina,27217,South,56,112000,4,Hispanic,Semi-Urban,Sales,EN
+KM-16375,Katherine Murray,Employee,United States,Salem,Virginia,24153,South,25,50000,2,African American,Semi-Urban,Associate,EN
+AB-10105,Adrian Barton,Consumer,United States,Phoenix,Arizona,85023,West,25,50000,2,Asian,Semi-Urban,Chief executives,SP
+HA-14905,Helen Abelman,Consumer,United States,New York City,New York,10024,East,52,104000,4,Hispanic,Urban,Advertising and promotions,EN
+BT-11305,Beth Thompson,Employee,United States,Costa Mesa,California,92627,West,34,68000,2,Hispanic,Semi-Urban,Associate,SP
+SV-20815,Stuart Van,Consumer,United States,Houston,Texas,77041,Central,25,50000,2,Hispanic,Urban,Marketing,SP
+RW-19540,Rick Wilson,Consumer,United States,Mesa,Arizona,85204,West,48,96000,5,Caucasian,Semi-Urban,Legislators,SP
+DK-12835,Damala Kotsonis,Consumer,United States,Salinas,California,93905,West,32,64000,2,Hispanic,Urban,Administrative services,SP
+ST-20530,Shui Tom,Consumer,United States,Parma,Ohio,44134,East,59,118000,4,Caucasian,Rural,Facilities,EN
+MM-17920,Michael Moore,Consumer,United States,San Francisco,California,94110,West,30,60000,1,Hispanic,Urban,Legislators,SP
+PW-19030,Pauline Webber,Consumer,United States,Richmond,Kentucky,40475,South,34,68000,2,Caucasian,Semi-Urban,General and operations,EN
+SC-20440,Shaun Chance,Consumer,United States,Aurora,Colorado,80013,West,49,98000,5,Caucasian,Semi-Urban,Sales,SP
+TS-21085,Thais Sissman,Consumer,United States,Phoenix,Arizona,85023,West,35,70000,3,African American,Rural,Legislators,SP
+MC-17425,Mark Cousins,Consumer,United States,Mobile,Alabama,36608,South,34,68000,2,Asian,Urban,Chief executives,EN
+ME-17320,Maria Etezadi,Employee,United States,Columbus,Georgia,31907,South,49,98000,4,African American,Urban,Associate,EN
+NH-18610,Nicole Hansen,Consumer,United States,Irving,Texas,75061,Central,35,70000,3,Caucasian,Urban,Sales,SP
+MB-18085,Mick Brown,Consumer,United States,Vineland,New Jersey,8360,East,52,104000,5,African American,Semi-Urban,Sales,EN
+KD-16495,Keith Dawkins,Consumer,United States,New York City,New York,10009,East,60,120000,4,Asian,Urban,Advertising and promotions,EN
+KN-16390,Katherine Nockton,Consumer,United States,Los Angeles,California,90004,West,58,116000,4,Caucasian,Urban,Computer and information systems,SP
+NP-18685,Nora Pelletier,Employee,United States,Niagara Falls,New York,14304,East,45,90000,3,Caucasian,Urban,Cashier,EN
+CS-12505,Cindy Stewart,Consumer,United States,Thomasville,North Carolina,27360,South,48,96000,5,Asian,Urban,General and operations,EN
+MS-17770,Maxwell Schwartz,Consumer,United States,New York City,New York,10035,East,46,92000,5,Caucasian,Urban,Computer and information systems,EN
+CM-12655,Corinna Mitchell,Employee,United States,Los Angeles,California,90008,West,33,66000,2,Hispanic,Urban,Manager,SP
+Co-12640,Corey-Lock,Consumer,United States,Philadelphia,Pennsylvania,19143,East,50,100000,4,Caucasian,Rural,Sales,EN
+TS-21370,Todd Sumrall,Consumer,United States,New York City,New York,10035,East,60,120000,4,Caucasian,Urban,General and operations,EN
+JW-15220,Jane Waco,Consumer,United States,Vancouver,Washington,98661,West,55,110000,4,Caucasian,Urban,General and operations,EN
+JD-15790,John Dryer,Consumer,United States,Coppell,Texas,75019,Central,46,92000,5,Caucasian,Urban,Marketing,SP
+PC-19000,Pauline Chand,Employee,United States,Los Angeles,California,90004,West,56,112000,5,Caucasian,Urban,Associate,SP
+AR-10540,Andy Reiter,Consumer,United States,New York City,New York,10024,East,27,54000,2,Caucasian,Urban,General and operations,EN
+AI-10855,Arianne Irving,Consumer,United States,Philadelphia,Pennsylvania,19120,East,27,54000,1,African American,Rural,Computer and information systems,EN
+TB-21400,Tom Boeckenhauer,Consumer,United States,Seattle,Washington,98105,West,25,50000,1,Caucasian,Urban,Advertising and promotions,EN
+PL-18925,Paul Lucas,Employee,United States,Chicago,Illinois,60610,Central,37,74000,3,African American,Urban,Associate,EN
+GH-14425,Gary Hwang,Consumer,United States,Tucson,Arizona,85705,West,49,98000,5,Caucasian,Semi-Urban,Public relations and fundraising,SP
+MP-18175,Mike Pelletier,Employee,United States,Laguna Niguel,California,92677,West,45,90000,4,Asian,Urban,Associate,SP
+JM-15655,Jim Mitchum,Consumer,United States,Bridgeton,New Jersey,8302,East,52,104000,5,Hispanic,Semi-Urban,Advertising and promotions,EN
+CL-11890,Carl Ludwig,Consumer,United States,Everett,Massachusetts,2149,East,57,114000,4,Caucasian,Rural,Computer and information systems,EN
+DB-13270,Deborah Brumfield,Employee,United States,San Diego,California,92024,West,40,80000,3,African American,Semi-Urban,Cashier,SP
+IG-15085,Ivan Gibson,Consumer,United States,San Diego,California,92024,West,31,62000,1,Caucasian,Urban,Public relations and fundraising,SP
+BO-11425,Bobby Odegard,Consumer,United States,Richmond,Kentucky,40475,South,28,56000,2,Hispanic,Urban,Facilities,EN
+AB-10150,Aimee Bixby,Consumer,United States,Long Beach,New York,11561,East,50,100000,5,Hispanic,Urban,Administrative services,EN
+JW-16075,Julia West,Consumer,United States,Philadelphia,Pennsylvania,19140,East,46,92000,4,African American,Rural,Public relations and fundraising,EN
+EB-13750,Edward Becker,Consumer,United States,Seattle,Washington,98103,West,29,58000,1,Caucasian,Urban,Legislators,EN
+SG-20470,Sheri Gordon,Consumer,United States,New York City,New York,10011,East,51,102000,5,Caucasian,Semi-Urban,Legislators,EN
+CM-12190,Charlotte Melton,Consumer,United States,Philadelphia,Pennsylvania,19134,East,45,90000,5,African American,Urban,Computer and information systems,EN
+AW-10840,Anthony Witt,Consumer,United States,Allen,Texas,75002,Central,33,66000,2,Caucasian,Urban,Administrative services,SP
+MC-18100,Mick Crebagga,Consumer,United States,El Paso,Texas,79907,Central,32,64000,2,Asian,Urban,Administrative services,SP
+TT-21460,Tonja Turnell,Employee,United States,Aurora,Illinois,60505,Central,58,116000,4,African American,Urban,Housekeeping,EN
+VG-21805,Vivek Grady,Consumer,United States,Virginia Beach,Virginia,23464,South,32,64000,2,Caucasian,Rural,Administrative services,EN
+MY-18295,Muhammed Yedwab,Consumer,United States,Grapevine,Texas,76051,Central,31,62000,2,Caucasian,Urban,Marketing,SP
+RD-19480,Rick Duston,Consumer,United States,Olympia,Washington,98502,West,39,78000,3,Caucasian,Rural,Computer and information systems,EN
+DP-13390,Dennis Pardue,Employee,United States,Peoria,Illinois,61604,Central,34,68000,1,African American,Rural,Housekeeping,EN
+ML-17395,Marina Lichtenstein,Consumer,United States,Los Angeles,California,90008,West,35,70000,1,Caucasian,Urban,Legislators,SP
+JC-15385,Jenna Caffey,Consumer,United States,Kent,Washington,98031,West,34,68000,1,Hispanic,Semi-Urban,Chief executives,EN
+JG-15160,James Galang,Consumer,United States,Los Angeles,California,90049,West,36,72000,3,Caucasian,Semi-Urban,Facilities,SP
+MC-17275,Marc Crier,Consumer,United States,Lafayette,Louisiana,70506,South,49,98000,5,African American,Urban,Chief executives,EN
+NW-18400,Natalie Webber,Consumer,United States,Tigard,Oregon,97224,West,31,62000,1,Caucasian,Urban,General and operations,EN
+TB-21280,Toby Braunhardt,Consumer,United States,Washington,District of Columbia,20016,East,25,50000,1,African American,Rural,Computer and information systems,EN
+BS-11380,Bill Stewart,Consumer,United States,Skokie,Illinois,60076,Central,57,114000,4,Asian,Urban,Chief executives,EN
+HH-15010,Hilary Holden,Consumer,United States,San Francisco,California,94110,West,53,106000,5,Hispanic,Rural,General and operations,SP
+CD-12280,Christina DeMoss,Consumer,United States,Seattle,Washington,98105,West,32,64000,1,Caucasian,Urban,Computer and information systems,EN
+TH-21100,Thea Hendricks,Consumer,United States,Los Angeles,California,90045,West,31,62000,1,African American,Urban,Marketing,SP
+MM-18055,Michelle Moray,Consumer,United States,Seattle,Washington,98115,West,39,78000,3,Caucasian,Urban,Chief executives,EN
+NS-18505,Neola Schneider,Consumer,United States,Dallas,Texas,75217,Central,53,106000,5,African American,Urban,Public relations and fundraising,SP
+RB-19645,Robert Barroso,Consumer,United States,North Las Vegas,Nevada,89031,West,42,84000,3,Caucasian,Semi-Urban,Computer and information systems,SP
+SW-20455,Shaun Weien,Consumer,United States,Suffolk,Virginia,23434,South,39,78000,3,Hispanic,Urban,Computer and information systems,EN
+EB-13930,Eric Barreto,Consumer,United States,San Francisco,California,94110,West,56,112000,4,Asian,Rural,Chief executives,SP
+PS-18760,Pamela Stobb,Consumer,United States,Los Angeles,California,90008,West,40,80000,3,Asian,Semi-Urban,Advertising and promotions,SP
+HF-14995,Herbert Flentye,Consumer,United States,Indianapolis,Indiana,46203,Central,31,62000,2,African American,Rural,General and operations,EN
+HZ-14950,Henia Zydlo,Consumer,United States,Columbus,Ohio,43229,East,44,88000,3,Caucasian,Urban,Computer and information systems,EN
+CD-12790,Cynthia Delaney,Employee,United States,San Diego,California,92037,West,51,102000,5,Caucasian,Urban,Manager,SP
+JK-15205,Jamie Kunitz,Consumer,United States,San Francisco,California,94122,West,49,98000,4,Caucasian,Urban,General and operations,SP
+FM-14215,Filia McAdams,Consumer,United States,Dublin,Ohio,43017,East,54,108000,4,Caucasian,Urban,Advertising and promotions,EN
+ED-13885,Emily Ducich,Employee,United States,San Diego,California,92037,West,38,76000,3,African American,Urban,Manager,SP
+DA-13450,Dianna Arnett,Employee,United States,Houston,Texas,77095,Central,33,66000,2,Caucasian,Semi-Urban,Manager,SP
+JW-15955,Joni Wasserman,Consumer,United States,Oakland,California,94601,West,45,90000,5,Asian,Urban,Public relations and fundraising,SP
+RM-19375,Raymond Messe,Consumer,United States,Houston,Texas,77095,Central,42,84000,3,Asian,Rural,Computer and information systems,SP
+ML-17755,Max Ludwig,Employee,United States,Suffolk,Virginia,23434,South,31,62000,1,Caucasian,Urban,Associate,EN
+CC-12685,Craig Carroll,Consumer,United States,Greensboro,North Carolina,27405,South,56,112000,4,Asian,Urban,General and operations,EN
+JE-15610,Jim Epp,Consumer,United States,Milwaukee,Wisconsin,53209,Central,52,104000,4,African American,Urban,Chief executives,EN
+RP-19855,Roy Phan,Consumer,United States,Kenosha,Wisconsin,53142,Central,25,50000,1,Caucasian,Semi-Urban,Facilities,EN
+TB-21175,Thomas Boland,Consumer,United States,Houston,Texas,77041,Central,25,50000,2,Hispanic,Rural,Administrative services,SP
+BE-11455,Brad Eason,Employee,United States,Olathe,Kansas,66062,Central,45,90000,3,Caucasian,Urban,Cashier,EN
+JF-15565,Jill Fjeld,Consumer,United States,Dallas,Texas,75081,Central,40,80000,3,Asian,Urban,Administrative services,SP
+PB-19210,Phillip Breyer,Consumer,United States,Tulsa,Oklahoma,74133,Central,51,102000,5,African American,Semi-Urban,Computer and information systems,EN
+BT-11680,Brian Thompson,Consumer,United States,Newark,Ohio,43055,East,48,96000,4,Asian,Rural,Facilities,EN
+JL-15235,Janet Lee,Consumer,United States,Chicago,Illinois,60623,Central,48,96000,5,Hispanic,Rural,Chief executives,EN
+CH-12070,Cathy Hwang,Employee,United States,Raleigh,North Carolina,27604,South,49,98000,4,African American,Urban,Associate,EN
+ND-18460,Neil Ducich,Consumer,United States,Macon,Georgia,31204,South,52,104000,5,Caucasian,Urban,Public relations and fundraising,EN
+BF-10975,Barbara Fisher,Consumer,United States,Charlotte,North Carolina,28205,South,29,58000,1,Hispanic,Urban,General and operations,EN
+KH-16330,Katharine Harms,Consumer,United States,Bowling Green,Kentucky,42104,South,51,102000,4,Caucasian,Urban,Chief executives,EN
+GW-14605,Giulietta Weimer,Consumer,United States,Seattle,Washington,98115,West,35,70000,3,Caucasian,Rural,Legislators,EN
+NC-18625,Noah Childs,Consumer,United States,Aurora,Colorado,80013,West,50,100000,4,Caucasian,Rural,General and operations,SP
+ME-18010,Michelle Ellison,Consumer,United States,San Francisco,California,94122,West,58,116000,4,Asian,Urban,General and operations,SP
+BP-11230,Benjamin Patterson,Consumer,United States,Spokane,Washington,99207,West,25,50000,1,Asian,Urban,Computer and information systems,EN
+JC-15775,John Castell,Consumer,United States,San Antonio,Texas,78207,Central,51,102000,5,Hispanic,Urban,Sales,SP
+AS-10090,Adam Shillingsburg,Consumer,United States,Charlottesville,Virginia,22901,South,28,56000,1,Caucasian,Semi-Urban,Chief executives,EN
+AC-10450,Amy Cox,Consumer,United States,Minneapolis,Minnesota,55407,Central,49,98000,4,Hispanic,Urban,Chief executives,EN
+MD-17860,Michael Dominguez,Consumer,United States,Indianapolis,Indiana,46203,Central,27,54000,1,Caucasian,Urban,Advertising and promotions,EN
+DB-13660,Duane Benoit,Consumer,United States,Oceanside,New York,11572,East,47,94000,5,Hispanic,Rural,Advertising and promotions,EN
+EH-13990,Erica Hackney,Consumer,United States,Roswell,Georgia,30076,South,42,84000,3,African American,Urban,Marketing,EN
+EH-13765,Edward Hooks,Consumer,United States,Watertown,New York,13601,East,59,118000,4,Hispanic,Urban,Administrative services,EN
+SC-20230,Scot Coram,Consumer,United States,Arlington,Texas,76017,Central,53,106000,5,Hispanic,Urban,Public relations and fundraising,SP
+JE-15715,Joe Elijah,Consumer,United States,Broomfield,Colorado,80020,West,58,116000,4,Caucasian,Rural,Advertising and promotions,SP
+AC-10615,Ann Chong,Consumer,United States,New York City,New York,10009,East,53,106000,5,Hispanic,Rural,Administrative services,EN
+JD-16015,Joy Daniels,Consumer,United States,Chicago,Illinois,60610,Central,44,88000,3,Caucasian,Urban,Facilities,EN
+CB-12415,Christy Brittain,Consumer,United States,Columbus,Ohio,43229,East,51,102000,4,Caucasian,Semi-Urban,Computer and information systems,EN
+JS-16030,Joy Smith,Consumer,United States,Houston,Texas,77036,Central,29,58000,2,Asian,Semi-Urban,Chief executives,SP
+LW-17215,Luke Weiss,Consumer,United States,Pasadena,California,91104,West,49,98000,5,Caucasian,Urban,Computer and information systems,SP
+SC-20800,Stuart Calhoun,Consumer,United States,Houston,Texas,77041,Central,42,84000,3,Caucasian,Rural,Public relations and fundraising,SP
+AM-10705,Anne McFarland,Consumer,United States,Auburn,Alabama,36830,South,34,68000,2,Hispanic,Rural,Advertising and promotions,EN
+RH-19510,Rick Huthwaite,Employee,United States,Providence,Rhode Island,2908,East,32,64000,1,Asian,Urban,Manager,EN
+CT-11995,Carol Triggs,Consumer,United States,Rochester,Minnesota,55901,Central,53,106000,5,Asian,Rural,General and operations,EN
+MC-17590,Matt Collister,Consumer,United States,Perth Amboy,New Jersey,8861,East,32,64000,2,Caucasian,Urban,Administrative services,EN
+CC-12610,Corey Catlett,Consumer,United States,Philadelphia,Pennsylvania,19134,East,58,116000,5,Asian,Rural,Chief executives,EN
+KA-16525,Kelly Andreada,Consumer,United States,Ontario,California,91761,West,46,92000,5,Hispanic,Semi-Urban,Legislators,SP
+TC-20980,Tamara Chand,Consumer,United States,Seattle,Washington,98105,West,41,82000,3,Asian,Urban,Computer and information systems,EN
+BF-11080,Bart Folk,Consumer,United States,Baltimore,Maryland,21215,East,54,108000,5,African American,Urban,Computer and information systems,EN
+MM-17260,Magdelene Morse,Consumer,United States,Wilmington,Delaware,19805,East,35,70000,3,Hispanic,Rural,Administrative services,EN
+AH-10120,Adrian Hane,Employee,United States,Tucson,Arizona,85705,West,31,62000,2,Caucasian,Rural,Manager,SP
+BW-11200,Ben Wallace,Consumer,United States,Boynton Beach,Florida,33437,South,34,68000,1,Caucasian,Semi-Urban,Facilities,EN
+SW-20245,Scot Wooten,Consumer,United States,Stockton,California,95207,West,58,116000,5,Caucasian,Urban,Sales,SP
+BS-11665,Brian Stugart,Consumer,United States,Philadelphia,Pennsylvania,19143,East,51,102000,4,African American,Urban,Legislators,EN
+RF-19345,Randy Ferguson,Consumer,United States,Dover,New Hampshire,3820,East,45,90000,3,Caucasian,Urban,Public relations and fundraising,EN
+WB-21850,William Brown,Consumer,United States,Philadelphia,Pennsylvania,19134,East,37,74000,3,African American,Urban,Chief executives,EN
+TB-21625,Trudy Brown,Consumer,United States,Grand Prairie,Texas,75051,Central,35,70000,1,Asian,Rural,Chief executives,SP
+AF-10870,Art Ferguson,Consumer,United States,College Station,Texas,77840,Central,43,86000,3,Asian,Rural,Administrative services,SP
+RB-19435,Richard Bierner,Consumer,United States,Saint Louis,Missouri,63116,Central,51,102000,4,Asian,Semi-Urban,Advertising and promotions,EN
+KF-16285,Karen Ferguson,Employee,United States,Manteca,California,95336,West,35,70000,3,Caucasian,Urban,Associate,SP
+JH-15820,John Huston,Consumer,United States,Kent,Ohio,44240,East,40,80000,3,Asian,Semi-Urban,Facilities,EN
+IL-15100,Ivan Liston,Consumer,United States,San Francisco,California,94122,West,39,78000,3,African American,Urban,Public relations and fundraising,SP
+PB-18805,Patrick Bzostek,Employee,United States,Salt Lake City,Utah,84106,West,52,104000,4,Hispanic,Rural,Cashier,EN
+RH-19600,Rob Haberlin,Consumer,United States,Huntsville,Alabama,35810,South,59,118000,5,African American,Urban,Sales,EN
+AW-10930,Arthur Wiediger,Employee,United States,Aurora,Illinois,60505,Central,25,50000,1,Asian,Semi-Urban,Housekeeping,EN
+ML-17410,Maris LaWare,Consumer,United States,Fairfield,Connecticut,6824,East,44,88000,3,Asian,Rural,Chief executives,EN
+DB-13555,Dorothy Badders,Consumer,United States,Jacksonville,Florida,32216,South,27,54000,2,Caucasian,Semi-Urban,Computer and information systems,EN
+MH-17620,Matt Hagelstein,Consumer,United States,San Francisco,California,94110,West,48,96000,4,African American,Rural,Facilities,SP
+DK-13375,Dennis Kane,Consumer,United States,Marion,Ohio,43302,East,25,50000,1,Asian,Urban,Chief executives,EN
+BT-11440,Bobby Trafton,Consumer,United States,Littleton,Colorado,80122,West,25,50000,2,Asian,Urban,Facilities,SP
+DB-13405,Denny Blanton,Consumer,United States,La Porte,Indiana,46350,Central,37,74000,3,African American,Urban,Computer and information systems,EN
+TG-21310,Toby Gnade,Consumer,United States,Los Angeles,California,90049,West,31,62000,2,Caucasian,Rural,Sales,SP
+BF-11005,Barry Franz,Employee,United States,Pasadena,California,91104,West,56,112000,4,African American,Urban,Manager,SP
+JM-16195,Justin MacKendrick,Consumer,United States,Los Angeles,California,90004,West,41,82000,3,African American,Urban,Marketing,SP
+MZ-17335,Maria Zettner,Employee,United States,San Diego,California,92024,West,34,68000,1,Caucasian,Semi-Urban,Housekeeping,SP
+MW-18220,Mitch Webber,Consumer,United States,New York City,New York,10035,East,56,112000,4,African American,Urban,Sales,EN
+MV-17485,Mark Van Huff,Consumer,United States,Arlington,Virginia,22204,South,52,104000,5,Hispanic,Semi-Urban,Advertising and promotions,EN
+SM-20320,Sean Miller,Employee,United States,Monroe,North Carolina,28110,South,50,100000,5,Caucasian,Semi-Urban,Associate,EN
+TP-21415,Tom Prescott,Consumer,United States,Seattle,Washington,98115,West,38,76000,3,Asian,Rural,Legislators,EN
+JK-15625,Jim Karlsson,Consumer,United States,Seattle,Washington,98115,West,54,108000,4,Caucasian,Urban,Computer and information systems,EN
+PJ-18835,Patrick Jones,Consumer,United States,Murfreesboro,Tennessee,37130,South,25,50000,2,Caucasian,Urban,Administrative services,EN
+RS-19420,Ricardo Sperren,Consumer,United States,Seattle,Washington,98115,West,51,102000,4,Hispanic,Rural,Legislators,EN
+SV-20935,Susan Vittorini,Consumer,United States,New York City,New York,10009,East,43,86000,3,Caucasian,Urban,Legislators,EN
+BC-11125,Becky Castell,Employee,United States,Peoria,Arizona,85345,West,25,50000,2,Hispanic,Urban,Housekeeping,SP
+EM-13825,Elizabeth Moffitt,Consumer,United States,Sioux Falls,South Dakota,57103,Central,54,108000,4,African American,Urban,Advertising and promotions,EN
+BM-11575,Brendan Murry,Consumer,United States,New York City,New York,10035,East,35,70000,2,Caucasian,Semi-Urban,Advertising and promotions,EN
+KN-16705,Kristina Nunn,Employee,United States,Fort Collins,Colorado,80525,West,58,116000,5,Caucasian,Semi-Urban,Housekeeping,SP
+KW-16570,Kelly Williams,Consumer,United States,Clarksville,Tennessee,37042,South,31,62000,1,Caucasian,Urban,Legislators,EN
+SC-20260,Scott Cohen,Consumer,United States,San Francisco,California,94122,West,27,54000,1,Caucasian,Urban,Marketing,SP
+CV-12295,Christina VanderZanden,Consumer,United States,Fresno,California,93727,West,40,80000,3,Asian,Semi-Urban,Administrative services,SP
+SG-20605,Speros Goranitis,Consumer,United States,New York City,New York,10009,East,34,68000,1,African American,Urban,Marketing,EN
+TM-21010,Tamara Manning,Consumer,United States,San Francisco,California,94122,West,35,70000,3,African American,Urban,Advertising and promotions,SP
+EM-13810,Eleni McCrary,Consumer,United States,Los Angeles,California,90036,West,33,66000,2,Caucasian,Rural,Sales,SP
+ML-18040,Michelle Lonsdale,Consumer,United States,Albuquerque,New Mexico,87105,West,57,114000,5,Caucasian,Rural,General and operations,SP
+CR-12580,Clay Rozendal,Employee,United States,Elmhurst,Illinois,60126,Central,52,104000,4,Caucasian,Urban,Associate,EN
+AZ-10750,Annie Zypern,Consumer,United States,New York City,New York,10009,East,28,56000,2,Asian,Urban,General and operations,EN
+PW-19240,Pierre Wener,Consumer,United States,Louisville,Colorado,80027,West,29,58000,2,Caucasian,Semi-Urban,Public relations and fundraising,SP
+SC-20380,Shahid Collister,Consumer,United States,Seattle,Washington,98115,West,55,110000,5,African American,Semi-Urban,Marketing,EN
+CM-11935,Carlos Meador,Consumer,United States,Fayetteville,North Carolina,28314,South,40,80000,3,Hispanic,Urban,Administrative services,EN
+GM-14695,Greg Maxwell,Consumer,United States,Los Angeles,California,90036,West,27,54000,1,African American,Semi-Urban,Facilities,SP
+TB-21250,Tim Brockman,Consumer,United States,New York City,New York,10024,East,26,52000,2,Caucasian,Urban,Marketing,EN
+JM-15865,John Murray,Consumer,United States,Jamestown,New York,14701,East,52,104000,4,Caucasian,Rural,Facilities,EN
+SC-20575,Sonia Cooley,Consumer,United States,Mishawaka,Indiana,46544,Central,38,76000,3,African American,Urban,Marketing,EN
+LS-17200,Luke Schmidt,Consumer,United States,Skokie,Illinois,60076,Central,53,106000,5,Caucasian,Urban,Sales,EN
+RR-19315,Ralph Ritter,Consumer,United States,San Francisco,California,94110,West,57,114000,4,Hispanic,Semi-Urban,General and operations,SP
+DB-12910,Daniel Byrd,Employee,United States,Tampa,Florida,33614,South,49,98000,5,Asian,Urban,Associate,EN
+TT-21220,Thomas Thornton,Consumer,United States,Houston,Texas,77041,Central,27,54000,1,Asian,Rural,Public relations and fundraising,SP
+LO-17170,Lori Olson,Consumer,United States,La Quinta,California,92253,West,29,58000,2,Asian,Rural,Marketing,SP
+KD-16615,Ken Dana,Consumer,United States,Scottsdale,Arizona,85254,West,31,62000,2,Caucasian,Semi-Urban,Facilities,SP
+NB-18580,Nicole Brennan,Consumer,United States,Philadelphia,Pennsylvania,19134,East,37,74000,3,Asian,Urban,Chief executives,EN
+BD-11635,Brian Derr,Consumer,United States,Bowling Green,Kentucky,42104,South,29,58000,1,Caucasian,Urban,Marketing,EN
+CM-12235,Chris McAfee,Consumer,United States,Carrollton,Texas,75007,Central,36,72000,3,Caucasian,Urban,Sales,SP
+EN-13780,Edward Nazzal,Consumer,United States,New York City,New York,10035,East,40,80000,3,African American,Urban,Marketing,EN
+KN-16450,Kean Nguyen,Consumer,United States,Jacksonville,Florida,32216,South,54,108000,4,Caucasian,Urban,General and operations,EN
+BO-11350,Bill Overfelt,Consumer,United States,Los Angeles,California,90045,West,31,62000,2,Hispanic,Rural,Sales,SP
+AG-10300,Aleksandra Gannaway,Consumer,United States,Los Angeles,California,90049,West,37,74000,3,Asian,Urban,Public relations and fundraising,SP
+MC-17635,Matthew Clasen,Consumer,United States,Saint Louis,Missouri,63116,Central,40,80000,3,Hispanic,Urban,Facilities,EN
+TA-21385,Tom Ashbrook,Employee,United States,New York City,New York,10024,East,35,70000,3,Asian,Urban,Associate,EN
+JF-15295,Jason Fortune-,Consumer,United States,Seattle,Washington,98103,West,28,56000,1,African American,Urban,Advertising and promotions,EN
+TT-21265,Tim Taslimi,Consumer,United States,Los Angeles,California,90045,West,26,52000,1,Hispanic,Urban,Legislators,SP
+SB-20170,Sarah Bern,Consumer,United States,New York City,New York,10035,East,35,70000,2,Hispanic,Rural,Legislators,EN
+CL-12700,Craig Leslie,Employee,United States,Springfield,Missouri,65807,Central,34,68000,1,Caucasian,Urban,Cashier,EN
+HG-15025,Hunter Glantz,Consumer,United States,Amarillo,Texas,79109,Central,26,52000,2,Asian,Rural,Public relations and fundraising,SP
+NL-18310,Nancy Lomonaco,Employee,United States,Los Angeles,California,90045,West,27,54000,2,Caucasian,Urban,Housekeeping,SP
+RR-19525,Rick Reed,Consumer,United States,Lowell,Massachusetts,1852,East,25,50000,2,African American,Urban,Chief executives,EN
+TC-21295,Toby Carlisle,Consumer,United States,San Diego,California,92024,West,25,50000,2,African American,Urban,Administrative services,SP
+SV-20785,Stewart Visinsky,Consumer,United States,Pueblo,Colorado,81001,West,31,62000,1,Hispanic,Semi-Urban,Marketing,SP
+BE-11410,Bobby Elias,Consumer,United States,Lancaster,Ohio,43130,East,41,82000,3,Caucasian,Urban,Chief executives,EN
+SC-20680,Steve Carroll,Employee,United States,Columbus,Georgia,31907,South,31,62000,1,Caucasian,Rural,Cashier,EN
+DF-13135,David Flashing,Consumer,United States,Vallejo,California,94591,West,32,64000,1,Caucasian,Urban,Public relations and fundraising,SP
+FH-14350,Fred Harton,Consumer,United States,Seattle,Washington,98105,West,43,86000,3,Caucasian,Urban,Sales,EN
+MS-17530,MaryBeth Skach,Consumer,United States,San Diego,California,92037,West,35,70000,1,Hispanic,Semi-Urban,Computer and information systems,SP
+RH-19555,Ritsa Hightower,Consumer,United States,Tallahassee,Florida,32303,South,32,64000,1,Caucasian,Rural,Marketing,EN
+GA-14515,George Ashbrook,Consumer,United States,San Francisco,California,94122,West,50,100000,4,Hispanic,Semi-Urban,Advertising and promotions,SP
+JP-16135,Julie Prescott,Employee,United States,Columbus,Georgia,31907,South,35,70000,3,Hispanic,Semi-Urban,Manager,EN
+Dp-13240,Dean percer,Employee,United States,Murray,Utah,84107,West,51,102000,4,Caucasian,Semi-Urban,Manager,EN
+MO-17950,Michael Oakman,Consumer,United States,Dallas,Texas,75220,Central,35,70000,2,Caucasian,Semi-Urban,General and operations,SP
+DL-13330,Denise Leinenbach,Consumer,United States,Las Cruces,New Mexico,88001,West,47,94000,5,Caucasian,Urban,Chief executives,SP
+MH-18025,Michelle Huthwaite,Consumer,United States,Seattle,Washington,98115,West,37,74000,3,Caucasian,Urban,Facilities,EN
+DR-12940,Daniel Raglin,Employee,United States,Franklin,Massachusetts,2038,East,57,114000,4,Hispanic,Urban,Associate,EN
+DM-13015,Darrin Martin,Consumer,United States,Encinitas,California,92024,West,41,82000,3,Caucasian,Urban,Legislators,SP
+CA-11965,Carol Adams,Consumer,United States,Hoover,Alabama,35244,South,45,90000,4,Caucasian,Rural,Sales,EN
+AC-10660,Anna Chung,Consumer,United States,Huntsville,Texas,77340,Central,26,52000,1,Caucasian,Urban,Computer and information systems,SP
+DM-13345,Denise Monton,Consumer,United States,Roswell,Georgia,30076,South,41,82000,3,Asian,Semi-Urban,Legislators,EN
+VF-21715,Vicky Freymann,Employee,United States,Columbus,Indiana,47201,Central,60,120000,4,Hispanic,Urban,Housekeeping,EN
+CC-12370,Christopher Conant,Consumer,United States,Fayetteville,North Carolina,28314,South,51,102000,5,Hispanic,Semi-Urban,Marketing,EN
+BF-11275,Beth Fritzler,Consumer,United States,Tucson,Arizona,85705,West,43,86000,3,Caucasian,Rural,Marketing,SP
+HG-14845,Harry Greene,Consumer,United States,Lake Charles,Louisiana,70601,South,25,50000,1,Caucasian,Urban,Administrative services,EN
+BP-11155,Becky Pak,Consumer,United States,Columbus,Georgia,31907,South,35,70000,2,Hispanic,Rural,Computer and information systems,EN
+EM-14140,Eugene Moren,Employee,United States,Glendale,Arizona,85301,West,28,56000,1,Asian,Urban,Housekeeping,SP
+MA-17995,Michelle Arnett,Employee,United States,Watertown,New York,13601,East,46,92000,5,Asian,Rural,Cashier,EN
+AY-10555,Andy Yotov,Consumer,United States,Oceanside,California,92054,West,43,86000,3,African American,Semi-Urban,General and operations,SP
+GB-14575,Giulietta Baptist,Consumer,United States,Philadelphia,Pennsylvania,19134,East,28,56000,2,Hispanic,Urban,Advertising and promotions,EN
+JB-16045,Julia Barnett,Employee,United States,Columbus,Georgia,31907,South,59,118000,5,African American,Urban,Associate,EN
+MG-17875,Michael Grace,Employee,United States,New York City,New York,10011,East,25,50000,2,Caucasian,Rural,Associate,EN
+SR-20425,Sharelle Roach,Employee,United States,Louisville,Colorado,80027,West,33,66000,1,Hispanic,Semi-Urban,Associate,SP
+JB-16000,Joy Bell-,Consumer,United States,Brownsville,Texas,78521,Central,27,54000,1,Caucasian,Rural,Facilities,SP
+DM-12955,Dario Medina,Consumer,United States,Lincoln Park,Michigan,48146,Central,39,78000,3,Asian,Urban,Public relations and fundraising,EN
+TC-21475,Tony Chapman,Employee,United States,Columbus,Georgia,31907,South,57,114000,5,African American,Urban,Associate,EN
+SW-20350,Sean Wendt,Employee,United States,Detroit,Michigan,48227,Central,45,90000,3,Hispanic,Rural,Manager,EN
+RE-19450,Richard Eichhorn,Consumer,United States,Dallas,Texas,75081,Central,45,90000,3,Asian,Rural,Facilities,SP
+BF-11215,Benjamin Farhat,Employee,United States,Albuquerque,New Mexico,87105,West,28,56000,2,Asian,Semi-Urban,Associate,SP
+KB-16405,Katrina Bavinger,Employee,United States,Apple Valley,California,92307,West,36,72000,3,Caucasian,Urban,Associate,SP
+JG-15310,Jason Gross,Consumer,United States,Providence,Rhode Island,2908,East,53,106000,4,African American,Urban,General and operations,EN
+EC-14050,Erin Creighton,Consumer,United States,New York City,New York,10024,East,57,114000,5,Caucasian,Urban,Marketing,EN
+EB-14110,Eugene Barchas,Consumer,United States,Philadelphia,Pennsylvania,19134,East,25,50000,2,Hispanic,Urban,Computer and information systems,EN
+JP-15460,Jennifer Patt,Consumer,United States,Oceanside,New York,11572,East,50,100000,5,Caucasian,Urban,Chief executives,EN
+CS-11845,Cari Sayre,Consumer,United States,Seattle,Washington,98105,West,60,120000,4,African American,Urban,Facilities,EN
+GH-14410,Gary Hansen,Employee,United States,Glendale,Arizona,85301,West,60,120000,4,African American,Urban,Cashier,SP
+PT-19090,Pete Takahito,Consumer,United States,Houston,Texas,77070,Central,60,120000,4,Hispanic,Urban,Advertising and promotions,SP
+JL-15130,Jack Lebron,Consumer,United States,Houston,Texas,77036,Central,29,58000,2,African American,Urban,Facilities,SP
+AH-10030,Aaron Hawkins,Consumer,United States,Philadelphia,Pennsylvania,19134,East,39,78000,3,African American,Urban,Marketing,EN
+CC-12475,Cindy Chapman,Consumer,United States,New York City,New York,10024,East,33,66000,2,Caucasian,Urban,Chief executives,EN
+DW-13195,David Wiener,Consumer,United States,Houston,Texas,77095,Central,30,60000,1,Caucasian,Urban,Marketing,SP
+SJ-20215,Sarah Jordon,Consumer,United States,Grand Prairie,Texas,75051,Central,45,90000,3,Caucasian,Semi-Urban,Legislators,SP
+BG-11740,Bruce Geld,Consumer,United States,Philadelphia,Pennsylvania,19120,East,50,100000,5,Hispanic,Urban,Computer and information systems,EN
+LB-16795,Laurel Beltran,Employee,United States,Highland Park,Illinois,60035,Central,46,92000,4,African American,Urban,Cashier,EN
+CM-11815,Candace McMahon,Consumer,United States,Pasadena,Texas,77506,Central,53,106000,5,Caucasian,Rural,Computer and information systems,SP
+EH-14185,Evan Henry,Consumer,United States,Decatur,Alabama,35601,South,32,64000,1,Asian,Urban,General and operations,EN
+TS-21505,Tony Sayre,Consumer,United States,Columbia,Tennessee,38401,South,58,116000,5,African American,Semi-Urban,Public relations and fundraising,EN
+PR-18880,Patrick Ryan,Consumer,United States,Oakland,California,94601,West,26,52000,2,Caucasian,Urban,Public relations and fundraising,SP
+LC-17050,Liz Carlisle,Consumer,United States,Mission Viejo,California,92691,West,58,116000,4,Hispanic,Urban,Advertising and promotions,SP
+CS-12490,Cindy Schnelling,Consumer,United States,Conroe,Texas,77301,Central,51,102000,4,Caucasian,Rural,Public relations and fundraising,SP
+DH-13075,Dave Hallsten,Consumer,United States,Richmond,Kentucky,40475,South,46,92000,4,African American,Urban,Computer and information systems,EN
+JO-15145,Jack O'Briant,Consumer,United States,Philadelphia,Pennsylvania,19140,East,59,118000,4,Asian,Urban,Advertising and promotions,EN
+AH-10690,Anna Häberli,Consumer,United States,New York City,New York,10024,East,56,112000,5,Caucasian,Urban,Marketing,EN
+HJ-14875,Heather Jas,Employee,United States,Jacksonville,Florida,32216,South,34,68000,2,Caucasian,Urban,Manager,EN
+MH-17455,Mark Hamilton,Consumer,United States,Jacksonville,North Carolina,28540,South,40,80000,3,Caucasian,Urban,General and operations,EN
+RD-19930,Russell D'Ascenzo,Consumer,United States,Austin,Texas,78745,Central,45,90000,3,Caucasian,Urban,Computer and information systems,SP
+SC-20020,Sam Craven,Consumer,United States,Plano,Texas,75023,Central,27,54000,2,Asian,Semi-Urban,Computer and information systems,SP
+SU-20665,Stephanie Ulpright,Employee,United States,Jackson,Mississippi,39212,South,34,68000,1,African American,Urban,Manager,EN
+FC-14335,Fred Chung,Consumer,United States,Mesquite,Texas,75150,Central,27,54000,2,Asian,Urban,Facilities,SP
+RB-19330,Randy Bradley,Consumer,United States,Philadelphia,Pennsylvania,19143,East,40,80000,3,Asian,Urban,Chief executives,EN
+NC-18535,Nick Crebassa,Consumer,United States,Dallas,Texas,75217,Central,36,72000,3,Caucasian,Urban,Legislators,SP
+DB-12970,Darren Budd,Consumer,United States,Los Angeles,California,90004,West,58,116000,5,Asian,Urban,Legislators,SP
+MF-17665,Maureen Fritzler,Consumer,United States,Toledo,Ohio,43615,East,27,54000,1,Hispanic,Rural,Sales,EN
+RM-19750,Roland Murray,Consumer,United States,New York City,New York,10011,East,57,114000,5,African American,Urban,Advertising and promotions,EN
+VM-21835,Vivian Mathis,Consumer,United States,Newark,Delaware,19711,East,30,60000,1,African American,Urban,Administrative services,EN
+EJ-13720,Ed Jacobs,Consumer,United States,San Diego,California,92037,West,43,86000,3,Caucasian,Urban,Public relations and fundraising,SP
+NC-18415,Nathan Cano,Consumer,United States,Jacksonville,North Carolina,28540,South,54,108000,4,African American,Rural,Computer and information systems,EN
+LS-17230,Lycoris Saunders,Consumer,United States,Dover,Delaware,19901,East,34,68000,2,Caucasian,Urban,Sales,EN
+KE-16420,Katrina Edelman,Consumer,United States,Bristol,Tennessee,37620,South,30,60000,1,Caucasian,Rural,Marketing,EN
+DH-13675,Duane Huffman,Employee,United States,Quincy,Massachusetts,2169,East,47,94000,5,Hispanic,Urban,Cashier,EN
+PF-19120,Peter Fuller,Consumer,United States,Gilbert,Arizona,85234,West,59,118000,5,Hispanic,Urban,Sales,SP
+VT-21700,Valerie Takahito,Employee,United States,Philadelphia,Pennsylvania,19143,East,28,56000,2,Caucasian,Semi-Urban,Cashier,EN
+MG-17695,Maureen Gnade,Consumer,United States,Buffalo,New York,14215,East,44,88000,3,Hispanic,Rural,Public relations and fundraising,EN
+SP-20920,Susan Pistek,Consumer,United States,Los Angeles,California,90036,West,41,82000,3,Hispanic,Urban,Marketing,SP
+CS-12175,Charles Sheldon,Consumer,United States,Columbia,Tennessee,38401,South,42,84000,3,Caucasian,Urban,Marketing,EN
+DK-12895,Dana Kaydos,Consumer,United States,Kenosha,Wisconsin,53142,Central,35,70000,3,Asian,Semi-Urban,Administrative services,EN
+KM-16660,Khloe Miller,Consumer,United States,Roswell,Georgia,30076,South,55,110000,5,Caucasian,Semi-Urban,Advertising and promotions,EN
+AA-10645,Anna Andreadi,Consumer,United States,Chester,Pennsylvania,19013,East,29,58000,2,Caucasian,Rural,Marketing,EN
+DD-13570,Dorothy Dickinson,Consumer,United States,Houston,Texas,77041,Central,48,96000,5,Hispanic,Semi-Urban,Legislators,SP
+AH-10465,Amy Hunt,Consumer,United States,New York City,New York,10035,East,42,84000,3,Hispanic,Urban,Advertising and promotions,EN
+TP-21565,Tracy Poddar,Consumer,United States,Aurora,Colorado,80013,West,59,118000,4,Caucasian,Rural,Facilities,SP
+EK-13795,Eileen Kiefer,Employee,United States,Santa Ana,California,92704,West,45,90000,4,Caucasian,Semi-Urban,Cashier,SP
+CR-12820,Cyra Reiten,Employee,United States,New York City,New York,10035,East,29,58000,2,Caucasian,Urban,Associate,EN
+SG-20890,Susan Gilcrest,Consumer,United States,Mcallen,Texas,78501,Central,51,102000,5,Caucasian,Rural,Computer and information systems,SP
+AH-10585,Angele Hood,Consumer,United States,Chicago,Illinois,60623,Central,31,62000,2,Hispanic,Urban,Facilities,EN
+NF-18475,Neil Französisc,Employee,United States,Rockford,Illinois,61107,Central,34,68000,1,Asian,Urban,Housekeeping,EN
+BS-11365,Bill Shonely,Consumer,United States,New York City,New York,10011,East,33,66000,2,Hispanic,Semi-Urban,Marketing,EN
+SH-20635,Stefanie Holloman,Consumer,United States,Jackson,Tennessee,38301,South,35,70000,2,Hispanic,Urban,Legislators,EN
+RD-19720,Roger Demir,Consumer,United States,Daytona Beach,Florida,32114,South,31,62000,2,Asian,Urban,Sales,EN
+AG-10330,Alex Grayson,Consumer,United States,Stockton,California,95207,West,39,78000,3,Hispanic,Urban,Computer and information systems,SP
+GR-14560,Georgia Rosenberg,Consumer,United States,San Francisco,California,94110,West,59,118000,5,Hispanic,Rural,Advertising and promotions,SP
+VS-21820,Vivek Sundaresam,Consumer,United States,Los Angeles,California,90036,West,36,72000,3,Asian,Urban,Marketing,SP
+TM-21490,Tony Molinari,Consumer,United States,Oklahoma City,Oklahoma,73120,Central,52,104000,4,Caucasian,Rural,Legislators,EN
+TS-21430,Tom Stivers,Consumer,United States,Los Angeles,California,90045,West,39,78000,3,African American,Urban,Computer and information systems,SP
+DB-13360,Dennis Bolton,Employee,United States,New York City,New York,10009,East,29,58000,1,Asian,Urban,Cashier,EN
+NR-18550,Nick Radford,Consumer,United States,Aurora,Illinois,60505,Central,49,98000,4,Hispanic,Urban,Chief executives,EN
+CS-11860,Cari Schnelling,Consumer,United States,Jacksonville,North Carolina,28540,South,48,96000,4,Hispanic,Urban,Marketing,EN
+MF-18250,Monica Federle,Consumer,United States,Los Angeles,California,90036,West,30,60000,2,Caucasian,Urban,Chief executives,SP
+LW-17125,Liz Willingham,Consumer,United States,Norwich,Connecticut,6360,East,40,80000,3,African American,Urban,Public relations and fundraising,EN
+AR-10345,Alex Russell,Consumer,United States,Lawrence,Massachusetts,1841,East,49,98000,4,Hispanic,Rural,Marketing,EN
+KS-16300,Karen Seio,Consumer,United States,Lehi,Utah,84043,West,29,58000,2,Caucasian,Semi-Urban,Administrative services,EN
+AB-10015,Aaron Bergman,Consumer,United States,Seattle,Washington,98103,West,38,76000,3,Caucasian,Rural,Administrative services,EN
+LR-17035,Lisa Ryan,Consumer,United States,Philadelphia,Pennsylvania,19134,East,41,82000,3,Caucasian,Urban,Chief executives,EN
+SS-20410,Shahid Shariari,Consumer,United States,Los Angeles,California,90008,West,32,64000,1,Asian,Semi-Urban,Computer and information systems,SP
+JM-15580,Jill Matthias,Consumer,United States,Monroe,North Carolina,28110,South,36,72000,3,Caucasian,Semi-Urban,Administrative services,EN
+JK-15325,Jason Klamczynski,Consumer,United States,Dallas,Texas,75220,Central,48,96000,4,Hispanic,Rural,Advertising and promotions,SP
+DM-13525,Don Miller,Consumer,United States,Houston,Texas,77070,Central,51,102000,4,Caucasian,Urban,Public relations and fundraising,SP
+ML-18265,Muhammed Lee,Consumer,United States,Seattle,Washington,98103,West,52,104000,4,Asian,Urban,Advertising and promotions,EN
+MH-17290,Marc Harrigan,Employee,United States,Los Angeles,California,90036,West,53,106000,4,African American,Urban,Cashier,SP
+FC-14245,Frank Carlisle,Employee,United States,Lakewood,Ohio,44107,East,59,118000,5,African American,Semi-Urban,Cashier,EN
+TH-21115,Thea Hudgings,Consumer,United States,Philadelphia,Pennsylvania,19140,East,46,92000,5,African American,Rural,Marketing,EN
+JK-16090,Juliana Krohn,Consumer,United States,Omaha,Nebraska,68104,Central,45,90000,4,Asian,Urban,Computer and information systems,EN
+SB-20185,Sarah Brown,Consumer,United States,Concord,New Hampshire,3301,East,55,110000,5,Asian,Urban,Legislators,EN
+BG-11035,Barry Gonzalez,Consumer,United States,Monroe,Louisiana,71203,South,59,118000,5,Caucasian,Rural,General and operations,EN
+BW-11065,Barry Weirich,Consumer,United States,Raleigh,North Carolina,27604,South,48,96000,4,Caucasian,Semi-Urban,Administrative services,EN
+MG-18205,Mitch Gastineau,Consumer,United States,Jacksonville,Florida,32216,South,35,70000,2,Hispanic,Urban,Sales,EN
+DO-13645,Doug O'Connell,Consumer,United States,Los Angeles,California,90036,West,44,88000,3,African American,Rural,Facilities,SP
+BP-11050,Barry Pond,Consumer,United States,Cranston,Rhode Island,2920,East,47,94000,4,African American,Semi-Urban,Sales,EN
+TS-21655,Trudy Schmidt,Consumer,United States,Milwaukee,Wisconsin,53209,Central,56,112000,5,Asian,Urban,Chief executives,EN
+EM-14200,Evan Minnotte,Employee,United States,Virginia Beach,Virginia,23464,South,31,62000,1,Caucasian,Semi-Urban,Housekeeping,EN
+AO-10810,Anthony O'Donnell,Consumer,United States,Los Angeles,California,90045,West,30,60000,2,African American,Rural,Chief executives,SP
+MH-17440,Mark Haberlin,Consumer,United States,New York City,New York,10035,East,59,118000,4,Caucasian,Urban,Marketing,EN
+SS-20515,Shirley Schmidt,Employee,United States,Louisville,Kentucky,40214,South,30,60000,1,Asian,Rural,Housekeeping,EN
+LD-16855,Lela Donovan,Consumer,United States,Chicago,Illinois,60653,Central,52,104000,4,Hispanic,Urban,Administrative services,EN
+VP-21760,Victoria Pisteka,Consumer,United States,San Francisco,California,94109,West,46,92000,5,African American,Semi-Urban,Facilities,SP
+TC-21145,Theresa Coyne,Consumer,United States,Lakewood,New Jersey,8701,East,31,62000,2,Caucasian,Rural,Marketing,EN
+IM-15055,Ionia McGrath,Consumer,United States,Roseville,California,95661,West,31,62000,2,Hispanic,Urban,Advertising and promotions,SP
+AR-10570,Anemone Ratner,Consumer,United States,Columbus,Georgia,31907,South,45,90000,3,Asian,Urban,General and operations,EN
+CM-12715,Craig Molinari,Consumer,United States,Huntsville,Texas,77340,Central,47,94000,5,Caucasian,Urban,General and operations,SP
+FW-14395,Fred Wasserman,Consumer,United States,Huntsville,Alabama,35810,South,53,106000,4,Caucasian,Urban,Facilities,EN
+LC-16960,Lindsay Castell,Employee,United States,Arlington,Virginia,22204,South,46,92000,5,Hispanic,Rural,Cashier,EN
+HE-14800,Harold Engle,Consumer,United States,Chicago,Illinois,60623,Central,45,90000,3,Caucasian,Urban,Chief executives,EN
+BD-11560,Brendan Dodson,Employee,United States,Fresno,California,93727,West,34,68000,1,Asian,Urban,Associate,SP
+HD-14785,Harold Dahlen,Employee,United States,Philadelphia,Pennsylvania,19143,East,31,62000,1,Hispanic,Semi-Urban,Cashier,EN
+CJ-11875,Carl Jackson,Consumer,United States,Philadelphia,Pennsylvania,19140,East,45,90000,4,Asian,Rural,Marketing,EN
+RS-19870,Roy Skaria,Employee,United States,Burlington,Iowa,52601,Central,30,60000,2,Caucasian,Rural,Manager,EN
+SC-20845,Sung Chung,Consumer,United States,Arlington Heights,Illinois,60004,Central,32,64000,2,Caucasian,Urban,General and operations,EN
+RE-19405,Ricardo Emerson,Consumer,United States,Kent,Ohio,44240,East,51,102000,5,Asian,Rural,Computer and information systems,EN
+SM-20905,Susan MacKendrick,Consumer,United States,Newark,Ohio,43055,East,50,100000,4,African American,Rural,Computer and information systems,EN

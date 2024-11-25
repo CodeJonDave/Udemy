@@ -1,0 +1,2 @@
+\COPY sales_order_item(platform,order_placed_dt,order_num,quantity,item_id,item_price,return_ind) from 'C:\Users\codeJ\OneDrive\Desktop\UDEMY\postgresql_pgadmin\resources\All sample data files\sales_order_item_cleaned.csv' DELIMITER ',' CSV HEADER ENCODING 'UTF8';
+-- must be entered into the cmd line to bypass one drive

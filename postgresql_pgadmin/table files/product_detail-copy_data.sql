@@ -1,0 +1,2 @@
+\copy visit_detail FROM 'C:\Users\codeJ\OneDrive\Desktop\UDEMY\postgresql_pgadmin\resources\All sample data files\visit_detail_cleaned.txt' WITH (FORMAT text, DELIMITER E'\t', NULL '', HEADER true);
+-- must be entered into postgre cli to bypass permissions of one drive

@@ -1,0 +1,2 @@
+\COPY demographics(customer_id,name,type,country,city,state,zipcode,region,age,household_income,household_size,ethnicity,urbanicity,profession,language) from 'C:\Users\codeJ\OneDrive\Desktop\UDEMY\postgresql_pgadmin\resources\All sample data files\demographics.csv' DELIMITER ',' CSV HEADER ENCODING 'UTF8';
+-- must be entered into the cmd line to bypass one drive
